@@ -1,0 +1,535 @@
+,tweet_source,tweet_text,tweet_date,tweet_vader_score,tweet_pos_score,tweet_neu_score,tweet_neg_score
+0,Fox News,"8 people killed, 25 wounded in bloody weekend in Chicago https://t.co/RZfwAoczGT",Tue May 29 00:09:27 +0000 2018,-0.8126,0.0,0.519,0.481
+1,Fox News,A Purple Heart recipient is sharing his story in an effort to help other veterans battling opioid abuse. #TheStory https://t.co/Rp3LiZ2QCt,Tue May 29 00:06:25 +0000 2018,-0.2023,0.205,0.56,0.235
+2,Fox News,".@kayleighmcenany: ""What was degrading to Americans was Benghazi...It is not degrading to enforce borders, raise ec… https://t.co/55IBt2L44L",Tue May 29 00:00:13 +0000 2018,-0.8225,0.0,0.664,0.336
+3,Fox News,".@kayleighmcenany: ""Both Chelsea and [@HillaryClinton] have a very odd habit of insulting [Americans] by saying Pre… https://t.co/rHB228VBRm",Mon May 28 23:52:48 +0000 2018,-0.6997,0.0,0.707,0.293
+4,Fox News,Alberto maintains strength as it makes landfall on Florida panhandle https://t.co/jMMvCePFB1 https://t.co/blYaxGQxQh,Mon May 28 23:43:30 +0000 2018,0.4939,0.225,0.775,0.0
+5,Fox News,Subtropical Storm Alberto makes landfall on the Florida panhandle. #TheStory https://t.co/jMMvCePFB1 https://t.co/pnfMHB71pB,Mon May 28 23:42:38 +0000 2018,0.0,0.0,1.0,0.0
+6,Fox News,".@jasoninthehouse on NK summit: ""@realDonaldTrump is leading from the front and it's peace through strength. It is… https://t.co/xe1Wlm3Xcz",Mon May 28 23:35:26 +0000 2018,0.7717,0.295,0.705,0.0
+7,Fox News,"YJ Fischer on NK summit: ""President @realDonaldTrump would be very happy if he could get a deal as good as the Iran… https://t.co/Z8TnNwMaub",Mon May 28 23:31:10 +0000 2018,0.7841,0.256,0.744,0.0
+8,Fox News,".@jasoninthehouse on NK summit: ""The very fact that they're actually having this dialogue, bringing home hostages,… https://t.co/ibSQXFPvLe",Mon May 28 23:27:23 +0000 2018,0.0,0.0,1.0,0.0
+9,Fox News,"YJ Fischer on NK summit: ""I think the question is how @POTUS is going to use this time and is he going to prepare f… https://t.co/c4CXOJDpW0",Mon May 28 23:23:36 +0000 2018,0.0,0.0,1.0,0.0
+10,Fox News,Virginia Rep. Tom Garrett reportedly not seek re-election: 'I'm an alcoholic' https://t.co/00TwlZwwk2,Mon May 28 23:16:32 +0000 2018,0.0,0.0,1.0,0.0
+11,Fox News,"Christian Jacobs places a flower near the headstone of his father, Marine Sgt. Christopher Jacobs at Arlington Nati… https://t.co/AJdOq8PRN4",Mon May 28 23:07:58 +0000 2018,0.0,0.0,1.0,0.0
+12,Fox News,"Karen Tumulty: ""One other thing that's going to be really important here [is] setting some realistic expectations f… https://t.co/ehtyAxzfD6",Mon May 28 23:01:46 +0000 2018,0.2716,0.104,0.896,0.0
+13,Fox News,Gold Star Wife: Global War on Terrorism memorial is a dream come true for families of the fallen https://t.co/EBaycQO5Va,Mon May 28 22:54:28 +0000 2018,-0.802,0.167,0.451,0.382
+14,Fox News,The @usairforce is seeking a medal of honor for a fallen sergeant. #ProudAmerican https://t.co/XDssLKnbEA,Mon May 28 22:46:55 +0000 2018,0.5859,0.354,0.506,0.14
+15,Fox News,Veteran trying to reunite belongings with mystery @usairforce veteran #ProudAmerican https://t.co/WnaPZ5kuyu,Mon May 28 22:44:09 +0000 2018,0.0,0.0,1.0,0.0
+16,Fox News,Las Vegas boycotts capital letters ahead of Stanley Cup finals against the Washington Capitals https://t.co/VaSqBx0SZV,Mon May 28 22:39:30 +0000 2018,-0.34,0.0,0.854,0.146
+17,Fox News,"Moments ago, former President @GeorgeHWBush tweeted that he is ""forever grateful"" for the servicemen and women who… https://t.co/WtR9r071uh",Mon May 28 22:28:57 +0000 2018,0.4588,0.15,0.85,0.0
+18,Fox News,World War II veteran posthumously honored with Purple Heart #ProudAmerican  https://t.co/O3RgI4jNNE,Mon May 28 22:09:28 +0000 2018,-0.0258,0.228,0.539,0.234
+19,Fox News,Members of the United States Armed Forces unfurl a 100-foot American flag during the annual Memorial Day ceremony a… https://t.co/JjDqtJIUEd,Mon May 28 21:57:54 +0000 2018,0.4215,0.135,0.865,0.0
+20,CNN,Pilot accused of kidnapping and trying to deport Chinese flight student https://t.co/f4tojoe2NN https://t.co/xgPK1yXjRJ,Tue May 29 00:00:06 +0000 2018,-0.296,0.0,0.845,0.155
+21,CNN,Virginia Rep. Tom Garrett won't seek re-election to get treatment for alcoholism https://t.co/Ww81LU4F2c https://t.co/Cf69pM5frr,Mon May 28 23:45:08 +0000 2018,0.0,0.0,1.0,0.0
+22,CNN,Parents of Parkland victims are outraged about a new video game that would let players shoot up a school… https://t.co/S0Uji89lZf,Mon May 28 23:30:10 +0000 2018,-0.802,0.0,0.647,0.353
+23,CNN,Here's what you might have missed this Memorial Day on CNN https://t.co/L50p5iPBu4 https://t.co/scx1KIDF6Q,Mon May 28 23:15:01 +0000 2018,-0.296,0.0,0.845,0.155
+24,CNN,Starbucks around the US are closing for anti-bias training https://t.co/AgHakhvYcj https://t.co/MFA5Q3TUYk,Mon May 28 23:00:16 +0000 2018,0.0,0.0,1.0,0.0
+25,CNN,"After seeing two black men arrested in at a Starbucks in Philadelphia, Melissa DePino says she's ""finished tiptoein… https://t.co/grndY3KMHW",Mon May 28 22:30:04 +0000 2018,-0.4767,0.0,0.846,0.154
+26,CNN,"They weren't going to play the National Anthem before a softball game, so fans started singing… https://t.co/4aUGSTIZKy",Mon May 28 22:00:08 +0000 2018,-0.2584,0.0,0.88,0.12
+27,CNN,"Sgt. Eddison Hermond is missing after being swept away by historic flooding in Ellicott City, Maryland. Witnesses s… https://t.co/Wv9EI1uikz",Mon May 28 21:45:20 +0000 2018,-0.296,0.0,0.891,0.109
+28,CNN,Misty Copeland is the first female African-American principal dancer in the American Ballet Theatre. She says partn… https://t.co/JVUleLrzZH,Mon May 28 21:45:00 +0000 2018,0.0,0.0,1.0,0.0
+29,CNN,"The best things to do in Guadalajara, Mexico https://t.co/gnMB7RyWDB https://t.co/rMBR2CFs2l",Mon May 28 21:34:33 +0000 2018,0.6369,0.318,0.682,0.0
+30,CNN,"Rapper Falz's ""This is Nigeria"" video holds up a mirror for the country https://t.co/1xvMdztVpx https://t.co/qq0BbJWqjQ",Mon May 28 21:15:05 +0000 2018,0.0,0.0,1.0,0.0
+31,CNN,JUST IN: Subtropical Storm Alberto is making landfall in Florida and will continue to bring a flood threat to the s… https://t.co/fqE6SeWjvc,Mon May 28 21:00:48 +0000 2018,-0.5267,0.0,0.855,0.145
+32,CNN,This young Malian migrant is being lauded in France after he scaled the outside of a building in Paris to rescue a… https://t.co/7deUsBh1oM,Mon May 28 20:46:03 +0000 2018,0.5106,0.136,0.864,0.0
+33,CNN,"Aerial footage from Hawaii shows lava encroaching on a geothermal plant. As of Friday, the oozing lava had destroye… https://t.co/pDyzigz1EZ",Mon May 28 20:30:49 +0000 2018,0.0,0.0,1.0,0.0
+34,CNN,President Trump ramps up pressure to get North Korea summit on track https://t.co/A5XjmuvRf3 https://t.co/2T2OGVVbhO,Mon May 28 20:15:04 +0000 2018,-0.296,0.0,0.855,0.145
+35,CNN,A teacher in Georgia responded the only way she knew how after receiving a letter from President Trump filled with… https://t.co/dyvHqnN7aR,Mon May 28 20:00:05 +0000 2018,0.0,0.0,1.0,0.0
+36,CNN,Ivanka Trump granted 7 new trademarks in China https://t.co/3KopiwxcgW https://t.co/SaEiTRFphP,Mon May 28 19:43:04 +0000 2018,0.25,0.2,0.8,0.0
+37,CNN,"Rumors that Nicki Minaj was dating Emimen started flying after a new song featuring Minaj dropped. But, alas, it al… https://t.co/EuIpQtVpRT",Mon May 28 19:37:05 +0000 2018,-0.2732,0.0,0.9,0.1
+38,CNN,Thinking about buying an annuity? Here are the actual costs https://t.co/CWNxhQsvV8 https://t.co/fcgJ6ulH3h,Mon May 28 19:29:05 +0000 2018,0.0,0.0,1.0,0.0
+39,CNN,Ivanka Trump is facing backlash for posting this photo of herself embracing her 2-year-old son amid reports of fami… https://t.co/VnZinlSGvF,Mon May 28 19:22:00 +0000 2018,0.0,0.0,1.0,0.0
+40,BBC News (World),'I want to produce the world's best cannabis' https://t.co/jRTHot3cbA,Mon May 28 23:34:13 +0000 2018,0.6705,0.44,0.56,0.0
+41,BBC News (World),South African 'world's oldest man' wants to stop smoking https://t.co/GPE3btX8YB,Mon May 28 23:34:13 +0000 2018,-0.296,0.0,0.804,0.196
+42,BBC News (World),Meet the Kenyan priest rapping about religion https://t.co/TMQedoJ7pg,Mon May 28 23:24:30 +0000 2018,0.0,0.0,1.0,0.0
+43,BBC News (World),Police filmed punching woman in New Jersey beach arrest https://t.co/GDLaUDAyOR,Mon May 28 22:22:41 +0000 2018,-0.34,0.0,0.789,0.211
+44,BBC News (World),Police officer filmed punching woman on New Jersey beach https://t.co/rjpPQNxM5m,Mon May 28 21:31:04 +0000 2018,0.0,0.0,1.0,0.0
+45,BBC News (World),US child migrants: Ivanka's mother and child photo sparks backlash https://t.co/scoTSI0m5a,Mon May 28 18:05:57 +0000 2018,0.0,0.0,1.0,0.0
+46,BBC News (World),Roman Abramovich 'eligible to become Israeli citizen' https://t.co/anPHXLoAwS,Mon May 28 17:58:54 +0000 2018,0.0,0.0,1.0,0.0
+47,BBC News (World),Solo Star Wars film underwhelms at box office https://t.co/uuoBdGcLSw,Mon May 28 17:03:33 +0000 2018,-0.5574,0.0,0.69,0.31
+48,BBC News (World),The mysterious musician who wears a mask... do you know who's behind it? 🤔 https://t.co/0Hy8iNhjJN,Mon May 28 16:49:03 +0000 2018,0.0,0.0,1.0,0.0
+49,BBC News (World),"Serge Dassault, French billionaire entrepreneur, dies at 93 https://t.co/3r0d0m9U5j",Mon May 28 16:40:19 +0000 2018,0.0,0.0,1.0,0.0
+50,BBC News (World),Austria unveils plan to cut benefits for immigrants https://t.co/BPlM0865ZY,Mon May 28 15:40:08 +0000 2018,0.128,0.222,0.598,0.179
+51,BBC News (World),China Mao impersonator at blockchain conference causes furore https://t.co/wbVGO8ZPry,Mon May 28 15:14:21 +0000 2018,0.0,0.0,1.0,0.0
+52,BBC News (World),One million French smokers quit in a year amid anti-smoking measures https://t.co/dI1DLjeT4l,Mon May 28 14:41:53 +0000 2018,0.0,0.0,1.0,0.0
+53,BBC News (World),"RT @BBCIndia: A new expose claims to strike at a key pillar of Indian democracy - the freedom of the press @BBCJustinR 
+
+https://t.co/OmbUq…",Mon May 28 14:36:16 +0000 2018,0.4767,0.173,0.7,0.128
+54,BBC News (World),Mamoudou Gassama: Migration in the genes of Malians https://t.co/DqN7Fdjoqq,Mon May 28 14:32:36 +0000 2018,0.0,0.0,1.0,0.0
+55,BBC News (World),Head of Kenya youth agency arrested in $78m corruption scandal https://t.co/R4bcYKsJh2,Mon May 28 14:11:40 +0000 2018,-0.7184,0.0,0.6,0.4
+56,BBC News (World),S Africa name first black rugby Test captain https://t.co/M4EHdFLYw9,Mon May 28 13:32:18 +0000 2018,0.0,0.0,1.0,0.0
+57,BBC News (World),High heels raise the odds in China slacklining contest https://t.co/GHgObrQFVm,Mon May 28 12:40:29 +0000 2018,0.0,0.0,1.0,0.0
+58,BBC News (World),EU proposes ban on straws and other single-use plastics https://t.co/lozcdrr9EZ,Mon May 28 11:58:54 +0000 2018,-0.5574,0.0,0.714,0.286
+59,BBC News (World),Carlo Cottarelli: Italy president names stop-gap PM https://t.co/MpAsEYobjp,Mon May 28 11:13:15 +0000 2018,0.0,0.0,1.0,0.0
+60,CBS News,Investigators in Austin say advancements in DNA technology has led to the indictment of a 64-year-old man in the 19… https://t.co/hnkdh0T1MH,Tue May 29 00:09:44 +0000 2018,0.0,0.0,1.0,0.0
+61,CBS News,Efforts appear underway to get summit with North Korea back on https://t.co/2A1xPG3Me0 https://t.co/lC4itRK86S,Mon May 28 23:49:44 +0000 2018,0.0,0.0,1.0,0.0
+62,CBS News,Trump lawyer and former New York City mayor Rudy Giuliani booed at Yankee Stadium on his 74th birthday… https://t.co/gDn1CjDAqp,Mon May 28 23:29:43 +0000 2018,0.0,0.0,1.0,0.0
+63,CBS News,"Bradley Kasal, Marine immortalized in powerful photo, retires after 34 years https://t.co/vDu1D4xZ1g https://t.co/v1i3Rg82Vt",Mon May 28 23:05:50 +0000 2018,0.4215,0.189,0.811,0.0
+64,CBS News,"Longtime CBS Capitol hill correspondent Bob Fuss died of leukemia. He covered Congress for us for 17 years, includi… https://t.co/TSZ7YCti7e",Mon May 28 23:02:03 +0000 2018,-0.5574,0.0,0.841,0.159
+65,CBS News,It was 50 years ago next week that Senator Robert Kennedy was assassinated in Los Angeles as he was running for the… https://t.co/YytS6qUfYq,Mon May 28 22:59:11 +0000 2018,0.0,0.0,1.0,0.0
+66,CBS News,The forecast is looking a bit brighter for a summit next month between President Trump and North Korean Leader Kim… https://t.co/6lkHfP71d0,Mon May 28 22:56:45 +0000 2018,0.3818,0.126,0.874,0.0
+67,CBS News,A 22-year-old migrant from Mali scaled the outside of a building without any equipment to rescue a young child in P… https://t.co/K03H2EGXaX,Mon May 28 22:52:35 +0000 2018,0.5106,0.155,0.845,0.0
+68,CBS News,"Former President George H.W. Bush, a decorated war hero himself, is spending Memorial Day in a hospital in Maine. C… https://t.co/VrcJtADXMJ",Mon May 28 22:49:01 +0000 2018,-0.0772,0.147,0.694,0.159
+69,CBS News,Subtropical Storm Alberto made landfall on Laguna Beach. Storm surge and tropical storm warnings are up in Alabama… https://t.co/mRpJQgIlVD,Mon May 28 22:44:00 +0000 2018,-0.296,0.0,0.891,0.109
+70,CBS News,The search is on for an Air Force veteran who went missing last night in the devastating flash flood in Ellicott Ci… https://t.co/1lh6zebgs6,Mon May 28 22:37:37 +0000 2018,-0.7579,0.0,0.764,0.236
+71,CBS News,"Subtropical Storm Alberto made landfall on Laguna Beach, Florida, bringing threats of heavy rain and flash floods… https://t.co/ABfV9RxJsV",Mon May 28 22:04:56 +0000 2018,-0.4215,0.0,0.859,0.141
+72,CBS News,Woman going through withdrawal dies at New Orleans jail https://t.co/twK4YvKNIS https://t.co/esnoxYd4jI,Mon May 28 21:40:54 +0000 2018,0.0258,0.099,0.901,0.0
+73,CBS News,"Starbucks, trying to put to rest an outcry over the arrest of two black men at one of its stores, is closing more t… https://t.co/OS0aDBLgV0",Mon May 28 21:20:55 +0000 2018,-0.6908,0.0,0.801,0.199
+74,CBS News,"The White House says President Trump and Japanese Prime Minister Shinzo Abe plan to meet in advance of the ""expecte… https://t.co/AoeNqnt1PM",Mon May 28 21:00:37 +0000 2018,0.0,0.0,1.0,0.0
+75,CBS News,A worker at a Florida Little Ceasars pizza shop shot and killed a man in a clown mask who attacked him with a woode… https://t.co/fpoA25fZlJ,Mon May 28 20:40:39 +0000 2018,-0.8176,0.0,0.706,0.294
+76,CBS News,"New Zealand plans to kill 150,000 cows in effort to eradicate disease https://t.co/V2tVgHGBqe https://t.co/V97Hawwp9K",Mon May 28 20:20:57 +0000 2018,-0.6908,0.0,0.734,0.266
+77,CBS News,"“I deeply care for my students and their well-being, that's why I did what I did that day,” says Jason Seaman, the… https://t.co/vK6c4E3xEO",Mon May 28 20:00:01 +0000 2018,0.5413,0.149,0.851,0.0
+78,CBS News,WATCH: A Little Caesars employee shoots and kills a suspect in clown mask who attacked him with a wooden post.… https://t.co/jQQblQEsxY,Mon May 28 19:41:13 +0000 2018,-0.8271,0.0,0.633,0.367
+79,CBS News,"Without any hesitation, a Malian migrant climbed several floors to rescue a boy dangling from a fourth-floor balcon… https://t.co/ckOmWo4pD2",Mon May 28 19:24:47 +0000 2018,0.296,0.17,0.722,0.108
+80,The New York Times,"""Everything they do is weird."" How Antarctic sea spiders get oxygen. https://t.co/WYIs2O5yp1",Mon May 28 23:59:00 +0000 2018,0.0,0.0,1.0,0.0
+81,The New York Times,How Dostoyevsky Predicted the ‘True Crime’ Craze https://t.co/v00cczhVgH,Mon May 28 23:42:07 +0000 2018,-0.1531,0.0,0.814,0.186
+82,The New York Times,‘Hair Live!’ is coming to NBC in 2019 https://t.co/fNUJ6cxilJ,Mon May 28 23:39:00 +0000 2018,0.0,0.0,1.0,0.0
+83,The New York Times,RT @nytimesworld: An Afghan man who named his son Donald Trump says his life is in danger after the Taliban killed someone who helped creat…,Mon May 28 23:20:23 +0000 2018,-0.836,0.0,0.744,0.256
+84,The New York Times,"Popcast: Yes, We Stuck With ‘American Idol’ https://t.co/VDv8g3RQps",Mon May 28 23:03:40 +0000 2018,0.1779,0.252,0.561,0.187
+85,The New York Times,"What is Philip Roth’s best book? We asked novelists, critics and historians to make their case. https://t.co/hxDmyNUycn",Mon May 28 23:01:55 +0000 2018,0.4588,0.196,0.701,0.103
+86,The New York Times,Truckers’ Strike Paralyzes Brazil as President Courts Investors https://t.co/p895sGGYJ1,Mon May 28 22:47:17 +0000 2018,-0.128,0.0,0.842,0.158
+87,The New York Times,A 22-year-old migrant from Mali living in France scaled 4 stories of a building to save a child hanging from a balc… https://t.co/lraI4QCpU9,Mon May 28 22:44:24 +0000 2018,0.4939,0.158,0.842,0.0
+88,The New York Times,Hurricane season’s around the corner. Here’s what to expect. https://t.co/QTzaRWmiXZ,Mon May 28 22:28:55 +0000 2018,0.0,0.0,1.0,0.0
+89,The New York Times,Flip-Flops for the Greater Good https://t.co/jFDNgzUvJp,Mon May 28 22:11:12 +0000 2018,0.6597,0.574,0.426,0.0
+90,The New York Times,RT @NYTNational: NASA sees the lava fields around Hawaii's Kilauea volcano as a scientific portal to Mars — and a tool for studying whether…,Mon May 28 22:02:06 +0000 2018,0.0,0.0,1.0,0.0
+91,The New York Times,Catholic School Rejected Its Gay Valedictorian’s Speech. So He Gave It With a Bullhorn. https://t.co/AmteIkK12L,Mon May 28 21:52:40 +0000 2018,-0.5106,0.0,0.798,0.202
+92,The New York Times,"After laying a wreath at the Tomb of the Unknowns, President Trump addressed a cheering crowd that included Gold St… https://t.co/knzSg7czP2",Mon May 28 21:47:04 +0000 2018,0.5106,0.155,0.845,0.0
+93,The New York Times,The valedictorian at a Catholic school in Kentucky says school officials blocked him from speaking at graduation. S… https://t.co/xW6PAbFGsY,Mon May 28 21:29:06 +0000 2018,-0.2732,0.0,0.89,0.11
+94,The New York Times,Did the Trump Administration Separate Immigrant Children From Parents and Lose Them? https://t.co/lR7803mxmd,Mon May 28 21:19:24 +0000 2018,-0.4019,0.0,0.816,0.184
+95,The New York Times,"He’s been called ""gray,"" ""invisible"" and ""gentle to the point of seeming fragile."" But on Monday, Italy's quiet pre… https://t.co/RsfPBDibfu",Mon May 28 21:10:06 +0000 2018,0.4404,0.132,0.868,0.0
+96,The New York Times,"President Trump’s promotion of elaborate, unproven theories is having a distinct effect https://t.co/xA2P9Xd3Pn",Mon May 28 20:53:04 +0000 2018,0.0,0.0,1.0,0.0
+97,The New York Times,"RT @tackettdc: “We understand that patriotism is not about making everybody stand and salute the flag,” Mr. Kander said as the more than 22…",Mon May 28 20:38:05 +0000 2018,0.0,0.0,1.0,0.0
+98,The New York Times,How to apply for the public service loan forgiveness fix-it fund https://t.co/Zpt8fMWYfE,Mon May 28 20:23:03 +0000 2018,0.2732,0.16,0.84,0.0
+99,The New York Times,"RT @nytimesarts: Yes, there's an awards show for movie trailers. And we have some favorites. https://t.co/FMCUu9Bu51",Mon May 28 20:08:02 +0000 2018,0.8176,0.395,0.605,0.0
+100,Fox News,"8 people killed, 25 wounded in bloody weekend in Chicago https://t.co/RZfwAoczGT",Tue May 29 00:09:27 +0000 2018,-0.8126,0.0,0.519,0.481
+101,Fox News,A Purple Heart recipient is sharing his story in an effort to help other veterans battling opioid abuse. #TheStory https://t.co/Rp3LiZ2QCt,Tue May 29 00:06:25 +0000 2018,-0.2023,0.205,0.56,0.235
+102,Fox News,".@kayleighmcenany: ""What was degrading to Americans was Benghazi...It is not degrading to enforce borders, raise ec… https://t.co/55IBt2L44L",Tue May 29 00:00:13 +0000 2018,-0.8225,0.0,0.664,0.336
+103,Fox News,".@kayleighmcenany: ""Both Chelsea and [@HillaryClinton] have a very odd habit of insulting [Americans] by saying Pre… https://t.co/rHB228VBRm",Mon May 28 23:52:48 +0000 2018,-0.6997,0.0,0.707,0.293
+104,Fox News,Alberto maintains strength as it makes landfall on Florida panhandle https://t.co/jMMvCePFB1 https://t.co/blYaxGQxQh,Mon May 28 23:43:30 +0000 2018,0.4939,0.225,0.775,0.0
+105,Fox News,Subtropical Storm Alberto makes landfall on the Florida panhandle. #TheStory https://t.co/jMMvCePFB1 https://t.co/pnfMHB71pB,Mon May 28 23:42:38 +0000 2018,0.0,0.0,1.0,0.0
+106,Fox News,".@jasoninthehouse on NK summit: ""@realDonaldTrump is leading from the front and it's peace through strength. It is… https://t.co/xe1Wlm3Xcz",Mon May 28 23:35:26 +0000 2018,0.7717,0.295,0.705,0.0
+107,Fox News,"YJ Fischer on NK summit: ""President @realDonaldTrump would be very happy if he could get a deal as good as the Iran… https://t.co/Z8TnNwMaub",Mon May 28 23:31:10 +0000 2018,0.7841,0.256,0.744,0.0
+108,Fox News,".@jasoninthehouse on NK summit: ""The very fact that they're actually having this dialogue, bringing home hostages,… https://t.co/ibSQXFPvLe",Mon May 28 23:27:23 +0000 2018,0.0,0.0,1.0,0.0
+109,Fox News,"YJ Fischer on NK summit: ""I think the question is how @POTUS is going to use this time and is he going to prepare f… https://t.co/c4CXOJDpW0",Mon May 28 23:23:36 +0000 2018,0.0,0.0,1.0,0.0
+110,Fox News,Virginia Rep. Tom Garrett reportedly not seek re-election: 'I'm an alcoholic' https://t.co/00TwlZwwk2,Mon May 28 23:16:32 +0000 2018,0.0,0.0,1.0,0.0
+111,Fox News,"Christian Jacobs places a flower near the headstone of his father, Marine Sgt. Christopher Jacobs at Arlington Nati… https://t.co/AJdOq8PRN4",Mon May 28 23:07:58 +0000 2018,0.0,0.0,1.0,0.0
+112,Fox News,"Karen Tumulty: ""One other thing that's going to be really important here [is] setting some realistic expectations f… https://t.co/ehtyAxzfD6",Mon May 28 23:01:46 +0000 2018,0.2716,0.104,0.896,0.0
+113,Fox News,Gold Star Wife: Global War on Terrorism memorial is a dream come true for families of the fallen https://t.co/EBaycQO5Va,Mon May 28 22:54:28 +0000 2018,-0.802,0.167,0.451,0.382
+114,Fox News,The @usairforce is seeking a medal of honor for a fallen sergeant. #ProudAmerican https://t.co/XDssLKnbEA,Mon May 28 22:46:55 +0000 2018,0.5859,0.354,0.506,0.14
+115,Fox News,Veteran trying to reunite belongings with mystery @usairforce veteran #ProudAmerican https://t.co/WnaPZ5kuyu,Mon May 28 22:44:09 +0000 2018,0.0,0.0,1.0,0.0
+116,Fox News,Las Vegas boycotts capital letters ahead of Stanley Cup finals against the Washington Capitals https://t.co/VaSqBx0SZV,Mon May 28 22:39:30 +0000 2018,-0.34,0.0,0.854,0.146
+117,Fox News,"Moments ago, former President @GeorgeHWBush tweeted that he is ""forever grateful"" for the servicemen and women who… https://t.co/WtR9r071uh",Mon May 28 22:28:57 +0000 2018,0.4588,0.15,0.85,0.0
+118,Fox News,World War II veteran posthumously honored with Purple Heart #ProudAmerican  https://t.co/O3RgI4jNNE,Mon May 28 22:09:28 +0000 2018,-0.0258,0.228,0.539,0.234
+119,Fox News,Members of the United States Armed Forces unfurl a 100-foot American flag during the annual Memorial Day ceremony a… https://t.co/JjDqtJIUEd,Mon May 28 21:57:54 +0000 2018,0.4215,0.135,0.865,0.0
+120,CNN,Pilot accused of kidnapping and trying to deport Chinese flight student https://t.co/f4tojoe2NN https://t.co/xgPK1yXjRJ,Tue May 29 00:00:06 +0000 2018,-0.296,0.0,0.845,0.155
+121,CNN,Virginia Rep. Tom Garrett won't seek re-election to get treatment for alcoholism https://t.co/Ww81LU4F2c https://t.co/Cf69pM5frr,Mon May 28 23:45:08 +0000 2018,0.0,0.0,1.0,0.0
+122,CNN,Parents of Parkland victims are outraged about a new video game that would let players shoot up a school… https://t.co/S0Uji89lZf,Mon May 28 23:30:10 +0000 2018,-0.802,0.0,0.647,0.353
+123,CNN,Here's what you might have missed this Memorial Day on CNN https://t.co/L50p5iPBu4 https://t.co/scx1KIDF6Q,Mon May 28 23:15:01 +0000 2018,-0.296,0.0,0.845,0.155
+124,CNN,Starbucks around the US are closing for anti-bias training https://t.co/AgHakhvYcj https://t.co/MFA5Q3TUYk,Mon May 28 23:00:16 +0000 2018,0.0,0.0,1.0,0.0
+125,CNN,"After seeing two black men arrested in at a Starbucks in Philadelphia, Melissa DePino says she's ""finished tiptoein… https://t.co/grndY3KMHW",Mon May 28 22:30:04 +0000 2018,-0.4767,0.0,0.846,0.154
+126,CNN,"They weren't going to play the National Anthem before a softball game, so fans started singing… https://t.co/4aUGSTIZKy",Mon May 28 22:00:08 +0000 2018,-0.2584,0.0,0.88,0.12
+127,CNN,"Sgt. Eddison Hermond is missing after being swept away by historic flooding in Ellicott City, Maryland. Witnesses s… https://t.co/Wv9EI1uikz",Mon May 28 21:45:20 +0000 2018,-0.296,0.0,0.891,0.109
+128,CNN,Misty Copeland is the first female African-American principal dancer in the American Ballet Theatre. She says partn… https://t.co/JVUleLrzZH,Mon May 28 21:45:00 +0000 2018,0.0,0.0,1.0,0.0
+129,CNN,"The best things to do in Guadalajara, Mexico https://t.co/gnMB7RyWDB https://t.co/rMBR2CFs2l",Mon May 28 21:34:33 +0000 2018,0.6369,0.318,0.682,0.0
+130,CNN,"Rapper Falz's ""This is Nigeria"" video holds up a mirror for the country https://t.co/1xvMdztVpx https://t.co/qq0BbJWqjQ",Mon May 28 21:15:05 +0000 2018,0.0,0.0,1.0,0.0
+131,CNN,JUST IN: Subtropical Storm Alberto is making landfall in Florida and will continue to bring a flood threat to the s… https://t.co/fqE6SeWjvc,Mon May 28 21:00:48 +0000 2018,-0.5267,0.0,0.855,0.145
+132,CNN,This young Malian migrant is being lauded in France after he scaled the outside of a building in Paris to rescue a… https://t.co/7deUsBh1oM,Mon May 28 20:46:03 +0000 2018,0.5106,0.136,0.864,0.0
+133,CNN,"Aerial footage from Hawaii shows lava encroaching on a geothermal plant. As of Friday, the oozing lava had destroye… https://t.co/pDyzigz1EZ",Mon May 28 20:30:49 +0000 2018,0.0,0.0,1.0,0.0
+134,CNN,President Trump ramps up pressure to get North Korea summit on track https://t.co/A5XjmuvRf3 https://t.co/2T2OGVVbhO,Mon May 28 20:15:04 +0000 2018,-0.296,0.0,0.855,0.145
+135,CNN,A teacher in Georgia responded the only way she knew how after receiving a letter from President Trump filled with… https://t.co/dyvHqnN7aR,Mon May 28 20:00:05 +0000 2018,0.0,0.0,1.0,0.0
+136,CNN,Ivanka Trump granted 7 new trademarks in China https://t.co/3KopiwxcgW https://t.co/SaEiTRFphP,Mon May 28 19:43:04 +0000 2018,0.25,0.2,0.8,0.0
+137,CNN,"Rumors that Nicki Minaj was dating Emimen started flying after a new song featuring Minaj dropped. But, alas, it al… https://t.co/EuIpQtVpRT",Mon May 28 19:37:05 +0000 2018,-0.2732,0.0,0.9,0.1
+138,CNN,Thinking about buying an annuity? Here are the actual costs https://t.co/CWNxhQsvV8 https://t.co/fcgJ6ulH3h,Mon May 28 19:29:05 +0000 2018,0.0,0.0,1.0,0.0
+139,CNN,Ivanka Trump is facing backlash for posting this photo of herself embracing her 2-year-old son amid reports of fami… https://t.co/VnZinlSGvF,Mon May 28 19:22:00 +0000 2018,0.0,0.0,1.0,0.0
+140,BBC News (World),'I want to produce the world's best cannabis' https://t.co/jRTHot3cbA,Mon May 28 23:34:13 +0000 2018,0.6705,0.44,0.56,0.0
+141,BBC News (World),South African 'world's oldest man' wants to stop smoking https://t.co/GPE3btX8YB,Mon May 28 23:34:13 +0000 2018,-0.296,0.0,0.804,0.196
+142,BBC News (World),Meet the Kenyan priest rapping about religion https://t.co/TMQedoJ7pg,Mon May 28 23:24:30 +0000 2018,0.0,0.0,1.0,0.0
+143,BBC News (World),Police filmed punching woman in New Jersey beach arrest https://t.co/GDLaUDAyOR,Mon May 28 22:22:41 +0000 2018,-0.34,0.0,0.789,0.211
+144,BBC News (World),Police officer filmed punching woman on New Jersey beach https://t.co/rjpPQNxM5m,Mon May 28 21:31:04 +0000 2018,0.0,0.0,1.0,0.0
+145,BBC News (World),US child migrants: Ivanka's mother and child photo sparks backlash https://t.co/scoTSI0m5a,Mon May 28 18:05:57 +0000 2018,0.0,0.0,1.0,0.0
+146,BBC News (World),Roman Abramovich 'eligible to become Israeli citizen' https://t.co/anPHXLoAwS,Mon May 28 17:58:54 +0000 2018,0.0,0.0,1.0,0.0
+147,BBC News (World),Solo Star Wars film underwhelms at box office https://t.co/uuoBdGcLSw,Mon May 28 17:03:33 +0000 2018,-0.5574,0.0,0.69,0.31
+148,BBC News (World),The mysterious musician who wears a mask... do you know who's behind it? 🤔 https://t.co/0Hy8iNhjJN,Mon May 28 16:49:03 +0000 2018,0.0,0.0,1.0,0.0
+149,BBC News (World),"Serge Dassault, French billionaire entrepreneur, dies at 93 https://t.co/3r0d0m9U5j",Mon May 28 16:40:19 +0000 2018,0.0,0.0,1.0,0.0
+150,BBC News (World),Austria unveils plan to cut benefits for immigrants https://t.co/BPlM0865ZY,Mon May 28 15:40:08 +0000 2018,0.128,0.222,0.598,0.179
+151,BBC News (World),China Mao impersonator at blockchain conference causes furore https://t.co/wbVGO8ZPry,Mon May 28 15:14:21 +0000 2018,0.0,0.0,1.0,0.0
+152,BBC News (World),One million French smokers quit in a year amid anti-smoking measures https://t.co/dI1DLjeT4l,Mon May 28 14:41:53 +0000 2018,0.0,0.0,1.0,0.0
+153,BBC News (World),"RT @BBCIndia: A new expose claims to strike at a key pillar of Indian democracy - the freedom of the press @BBCJustinR 
+
+https://t.co/OmbUq…",Mon May 28 14:36:16 +0000 2018,0.4767,0.173,0.7,0.128
+154,BBC News (World),Mamoudou Gassama: Migration in the genes of Malians https://t.co/DqN7Fdjoqq,Mon May 28 14:32:36 +0000 2018,0.0,0.0,1.0,0.0
+155,BBC News (World),Head of Kenya youth agency arrested in $78m corruption scandal https://t.co/R4bcYKsJh2,Mon May 28 14:11:40 +0000 2018,-0.7184,0.0,0.6,0.4
+156,BBC News (World),S Africa name first black rugby Test captain https://t.co/M4EHdFLYw9,Mon May 28 13:32:18 +0000 2018,0.0,0.0,1.0,0.0
+157,BBC News (World),High heels raise the odds in China slacklining contest https://t.co/GHgObrQFVm,Mon May 28 12:40:29 +0000 2018,0.0,0.0,1.0,0.0
+158,BBC News (World),EU proposes ban on straws and other single-use plastics https://t.co/lozcdrr9EZ,Mon May 28 11:58:54 +0000 2018,-0.5574,0.0,0.714,0.286
+159,BBC News (World),Carlo Cottarelli: Italy president names stop-gap PM https://t.co/MpAsEYobjp,Mon May 28 11:13:15 +0000 2018,0.0,0.0,1.0,0.0
+160,CBS News,Investigators in Austin say advancements in DNA technology has led to the indictment of a 64-year-old man in the 19… https://t.co/hnkdh0T1MH,Tue May 29 00:09:44 +0000 2018,0.0,0.0,1.0,0.0
+161,CBS News,Efforts appear underway to get summit with North Korea back on https://t.co/2A1xPG3Me0 https://t.co/lC4itRK86S,Mon May 28 23:49:44 +0000 2018,0.0,0.0,1.0,0.0
+162,CBS News,Trump lawyer and former New York City mayor Rudy Giuliani booed at Yankee Stadium on his 74th birthday… https://t.co/gDn1CjDAqp,Mon May 28 23:29:43 +0000 2018,0.0,0.0,1.0,0.0
+163,CBS News,"Bradley Kasal, Marine immortalized in powerful photo, retires after 34 years https://t.co/vDu1D4xZ1g https://t.co/v1i3Rg82Vt",Mon May 28 23:05:50 +0000 2018,0.4215,0.189,0.811,0.0
+164,CBS News,"Longtime CBS Capitol hill correspondent Bob Fuss died of leukemia. He covered Congress for us for 17 years, includi… https://t.co/TSZ7YCti7e",Mon May 28 23:02:03 +0000 2018,-0.5574,0.0,0.841,0.159
+165,CBS News,It was 50 years ago next week that Senator Robert Kennedy was assassinated in Los Angeles as he was running for the… https://t.co/YytS6qUfYq,Mon May 28 22:59:11 +0000 2018,0.0,0.0,1.0,0.0
+166,CBS News,The forecast is looking a bit brighter for a summit next month between President Trump and North Korean Leader Kim… https://t.co/6lkHfP71d0,Mon May 28 22:56:45 +0000 2018,0.3818,0.126,0.874,0.0
+167,CBS News,A 22-year-old migrant from Mali scaled the outside of a building without any equipment to rescue a young child in P… https://t.co/K03H2EGXaX,Mon May 28 22:52:35 +0000 2018,0.5106,0.155,0.845,0.0
+168,CBS News,"Former President George H.W. Bush, a decorated war hero himself, is spending Memorial Day in a hospital in Maine. C… https://t.co/VrcJtADXMJ",Mon May 28 22:49:01 +0000 2018,-0.0772,0.147,0.694,0.159
+169,CBS News,Subtropical Storm Alberto made landfall on Laguna Beach. Storm surge and tropical storm warnings are up in Alabama… https://t.co/mRpJQgIlVD,Mon May 28 22:44:00 +0000 2018,-0.296,0.0,0.891,0.109
+170,CBS News,The search is on for an Air Force veteran who went missing last night in the devastating flash flood in Ellicott Ci… https://t.co/1lh6zebgs6,Mon May 28 22:37:37 +0000 2018,-0.7579,0.0,0.764,0.236
+171,CBS News,"Subtropical Storm Alberto made landfall on Laguna Beach, Florida, bringing threats of heavy rain and flash floods… https://t.co/ABfV9RxJsV",Mon May 28 22:04:56 +0000 2018,-0.4215,0.0,0.859,0.141
+172,CBS News,Woman going through withdrawal dies at New Orleans jail https://t.co/twK4YvKNIS https://t.co/esnoxYd4jI,Mon May 28 21:40:54 +0000 2018,0.0258,0.099,0.901,0.0
+173,CBS News,"Starbucks, trying to put to rest an outcry over the arrest of two black men at one of its stores, is closing more t… https://t.co/OS0aDBLgV0",Mon May 28 21:20:55 +0000 2018,-0.6908,0.0,0.801,0.199
+174,CBS News,"The White House says President Trump and Japanese Prime Minister Shinzo Abe plan to meet in advance of the ""expecte… https://t.co/AoeNqnt1PM",Mon May 28 21:00:37 +0000 2018,0.0,0.0,1.0,0.0
+175,CBS News,A worker at a Florida Little Ceasars pizza shop shot and killed a man in a clown mask who attacked him with a woode… https://t.co/fpoA25fZlJ,Mon May 28 20:40:39 +0000 2018,-0.8176,0.0,0.706,0.294
+176,CBS News,"New Zealand plans to kill 150,000 cows in effort to eradicate disease https://t.co/V2tVgHGBqe https://t.co/V97Hawwp9K",Mon May 28 20:20:57 +0000 2018,-0.6908,0.0,0.734,0.266
+177,CBS News,"“I deeply care for my students and their well-being, that's why I did what I did that day,” says Jason Seaman, the… https://t.co/vK6c4E3xEO",Mon May 28 20:00:01 +0000 2018,0.5413,0.149,0.851,0.0
+178,CBS News,WATCH: A Little Caesars employee shoots and kills a suspect in clown mask who attacked him with a wooden post.… https://t.co/jQQblQEsxY,Mon May 28 19:41:13 +0000 2018,-0.8271,0.0,0.633,0.367
+179,CBS News,"Without any hesitation, a Malian migrant climbed several floors to rescue a boy dangling from a fourth-floor balcon… https://t.co/ckOmWo4pD2",Mon May 28 19:24:47 +0000 2018,0.296,0.17,0.722,0.108
+180,The New York Times,"""Everything they do is weird."" How Antarctic sea spiders get oxygen. https://t.co/WYIs2O5yp1",Mon May 28 23:59:00 +0000 2018,0.0,0.0,1.0,0.0
+181,The New York Times,How Dostoyevsky Predicted the ‘True Crime’ Craze https://t.co/v00cczhVgH,Mon May 28 23:42:07 +0000 2018,-0.1531,0.0,0.814,0.186
+182,The New York Times,‘Hair Live!’ is coming to NBC in 2019 https://t.co/fNUJ6cxilJ,Mon May 28 23:39:00 +0000 2018,0.0,0.0,1.0,0.0
+183,The New York Times,RT @nytimesworld: An Afghan man who named his son Donald Trump says his life is in danger after the Taliban killed someone who helped creat…,Mon May 28 23:20:23 +0000 2018,-0.836,0.0,0.744,0.256
+184,The New York Times,"Popcast: Yes, We Stuck With ‘American Idol’ https://t.co/VDv8g3RQps",Mon May 28 23:03:40 +0000 2018,0.1779,0.252,0.561,0.187
+185,The New York Times,"What is Philip Roth’s best book? We asked novelists, critics and historians to make their case. https://t.co/hxDmyNUycn",Mon May 28 23:01:55 +0000 2018,0.4588,0.196,0.701,0.103
+186,The New York Times,Truckers’ Strike Paralyzes Brazil as President Courts Investors https://t.co/p895sGGYJ1,Mon May 28 22:47:17 +0000 2018,-0.128,0.0,0.842,0.158
+187,The New York Times,A 22-year-old migrant from Mali living in France scaled 4 stories of a building to save a child hanging from a balc… https://t.co/lraI4QCpU9,Mon May 28 22:44:24 +0000 2018,0.4939,0.158,0.842,0.0
+188,The New York Times,Hurricane season’s around the corner. Here’s what to expect. https://t.co/QTzaRWmiXZ,Mon May 28 22:28:55 +0000 2018,0.0,0.0,1.0,0.0
+189,The New York Times,Flip-Flops for the Greater Good https://t.co/jFDNgzUvJp,Mon May 28 22:11:12 +0000 2018,0.6597,0.574,0.426,0.0
+190,The New York Times,RT @NYTNational: NASA sees the lava fields around Hawaii's Kilauea volcano as a scientific portal to Mars — and a tool for studying whether…,Mon May 28 22:02:06 +0000 2018,0.0,0.0,1.0,0.0
+191,The New York Times,Catholic School Rejected Its Gay Valedictorian’s Speech. So He Gave It With a Bullhorn. https://t.co/AmteIkK12L,Mon May 28 21:52:40 +0000 2018,-0.5106,0.0,0.798,0.202
+192,The New York Times,"After laying a wreath at the Tomb of the Unknowns, President Trump addressed a cheering crowd that included Gold St… https://t.co/knzSg7czP2",Mon May 28 21:47:04 +0000 2018,0.5106,0.155,0.845,0.0
+193,The New York Times,The valedictorian at a Catholic school in Kentucky says school officials blocked him from speaking at graduation. S… https://t.co/xW6PAbFGsY,Mon May 28 21:29:06 +0000 2018,-0.2732,0.0,0.89,0.11
+194,The New York Times,Did the Trump Administration Separate Immigrant Children From Parents and Lose Them? https://t.co/lR7803mxmd,Mon May 28 21:19:24 +0000 2018,-0.4019,0.0,0.816,0.184
+195,The New York Times,"He’s been called ""gray,"" ""invisible"" and ""gentle to the point of seeming fragile."" But on Monday, Italy's quiet pre… https://t.co/RsfPBDibfu",Mon May 28 21:10:06 +0000 2018,0.4404,0.132,0.868,0.0
+196,The New York Times,"President Trump’s promotion of elaborate, unproven theories is having a distinct effect https://t.co/xA2P9Xd3Pn",Mon May 28 20:53:04 +0000 2018,0.0,0.0,1.0,0.0
+197,The New York Times,"RT @tackettdc: “We understand that patriotism is not about making everybody stand and salute the flag,” Mr. Kander said as the more than 22…",Mon May 28 20:38:05 +0000 2018,0.0,0.0,1.0,0.0
+198,The New York Times,How to apply for the public service loan forgiveness fix-it fund https://t.co/Zpt8fMWYfE,Mon May 28 20:23:03 +0000 2018,0.2732,0.16,0.84,0.0
+199,The New York Times,"RT @nytimesarts: Yes, there's an awards show for movie trailers. And we have some favorites. https://t.co/FMCUu9Bu51",Mon May 28 20:08:02 +0000 2018,0.8176,0.395,0.605,0.0
+200,Fox News,Memorial Day: 5 things you didn't know about the holiday  https://t.co/ODEYefybls,Mon May 28 21:49:04 +0000 2018,0.4019,0.231,0.769,0.0
+201,Fox News,Two teenagers comfort their father Army Sgt. 1st Class Mario DeLeon of San Antonio as they visit the grave of his f… https://t.co/lEciwfCHNS,Mon May 28 21:38:07 +0000 2018,-0.0258,0.096,0.805,0.1
+202,Fox News,"RT @FoxNewsResearch: For the past 70 years, in the days leading up to Memorial Day, soldiers of the U.S. 3rd Infantry—“The Old Guard”— have…",Mon May 28 21:25:39 +0000 2018,0.0,0.0,1.0,0.0
+203,Fox News,"Rare virus kills more than a dozen in India, health officials warn it could cause global epidemic https://t.co/5A39Rxwbvq",Mon May 28 21:15:00 +0000 2018,-0.5994,0.0,0.754,0.246
+204,Fox News,"US halts new North Korea sanctions as talks for potential @realDonaldTrump, Kim summit continue: report https://t.co/QmgKveABpn",Mon May 28 21:00:07 +0000 2018,0.0,0.0,1.0,0.0
+205,Fox News,"WWII veteran receives high school diploma, 74 years after dropping out #ProudAmerican  https://t.co/FVrAnPIauc",Mon May 28 20:50:43 +0000 2018,0.0,0.0,1.0,0.0
+206,Fox News,"This Memorial Day, we honor the men and women who gave their lives fighting for our great country. https://t.co/dTUUUeBg0X",Mon May 28 20:45:24 +0000 2018,0.7003,0.283,0.62,0.097
+207,Fox News,".@RepScottTaylor on health care for veterans: ""It is the duty and the responsibility of the government to care for… https://t.co/pl8xDp7HbR",Mon May 28 20:40:47 +0000 2018,0.7506,0.262,0.738,0.0
+208,Fox News,Memorial Day 2018: Largest parades in the US https://t.co/2zZM5PR4z5,Mon May 28 20:30:35 +0000 2018,0.0,0.0,1.0,0.0
+209,Fox News,"Angela Morabito on 2018 midterms: ""Republicans need to be careful because this time around, they don't have… https://t.co/1B0UFjn5kp",Mon May 28 20:25:02 +0000 2018,0.1531,0.086,0.914,0.0
+210,Fox News,".@emilyjashinsky on 2018 midterms: ""Democrats are struggling to come up with a message because Republicans are pres… https://t.co/VPyPkpnR8p",Mon May 28 20:21:32 +0000 2018,-0.4215,0.0,0.851,0.149
+211,Fox News,.@LaraLeaTrump sports MAGA swimsuit for Memorial Day weekend  https://t.co/aCYCJjyjxy,Mon May 28 20:18:20 +0000 2018,0.0,0.0,1.0,0.0
+212,Fox News,".@JessicaTarlov on 2018 midterms: ""The generic ballot is shrinking but Democrat enthusiasm in these special electio… https://t.co/wadl31BQv8",Mon May 28 20:14:12 +0000 2018,0.8126,0.33,0.67,0.0
+213,Fox News,"Angela Morabito: ""Democrats have done everything they could to stop this economic upturn."" @TeamCavuto https://t.co/8akz3qGdCK",Mon May 28 20:11:28 +0000 2018,-0.296,0.0,0.864,0.136
+214,Fox News,Memorial Day gas prices. @TeamCavuto https://t.co/lyxxtaGupC https://t.co/9rKmOQ1OZj,Mon May 28 20:07:20 +0000 2018,0.0,0.0,1.0,0.0
+215,Fox News,President @realDonaldTrump attends #MemorialDay ceremony at Arlington National Cemetery. https://t.co/FxgGgWYWwY https://t.co/nZ0MvCAgpQ,Mon May 28 19:58:17 +0000 2018,0.0,0.0,1.0,0.0
+216,Fox News,"Fast-moving Hawaii lava prompts evacuations, covers well on geothermal plant property @ShepNewsTeam… https://t.co/MhW2zdtL4E",Mon May 28 19:46:09 +0000 2018,0.2732,0.149,0.851,0.0
+217,Fox News,"Earlier, @IvankaTrump ​ took to Twitter to commemorate the fallen servicemen and women for #MemorialDay. https://t.co/ThAv4yne6R",Mon May 28 19:43:01 +0000 2018,-0.3612,0.0,0.848,0.152
+218,Fox News,.@HeyTammyBruce: @realDonaldTrump drives the ‘narrative’ on Twitter -- no wonder the media and elites don’t like it  https://t.co/hiku1gcdXY,Mon May 28 19:38:00 +0000 2018,0.0772,0.121,0.773,0.106
+219,Fox News,US Marshals nab sex offender suspected of abducting teenage girl https://t.co/Y1kzjbadHJ,Mon May 28 19:32:22 +0000 2018,-0.5267,0.0,0.672,0.328
+220,CNN,Police officer punches woman in New Jersey beach arrest video https://t.co/t6usk1WVrc https://t.co/TSj0CCFT0X,Mon May 28 19:15:08 +0000 2018,-0.34,0.0,0.821,0.179
+221,CNN,"President Trump just put the ""Me"" in his Memorial Day tweet https://t.co/B1Kzo02Qm5 | 
+Analysis by Chris Cillizza https://t.co/52nwJipoAG",Mon May 28 19:08:05 +0000 2018,0.0,0.0,1.0,0.0
+222,CNN,Lucky loser Marco Trungelliti beats Bernard Tomic at French Open https://t.co/nTr9EMMea0 https://t.co/iaZMInu4Bn,Mon May 28 19:01:04 +0000 2018,-0.1531,0.173,0.617,0.21
+223,CNN,A teacher in Georgia responded the only way she knew how after receiving a letter from President Trump filled with… https://t.co/9PF8GY7t8G,Mon May 28 18:54:05 +0000 2018,0.0,0.0,1.0,0.0
+224,CNN,"Jason Seaman, the teacher who tackled a gunman last week at an Indiana middle school, speaks out for the first time… https://t.co/PcPqirMVjg",Mon May 28 18:47:04 +0000 2018,0.0,0.0,1.0,0.0
+225,CNN,"This 6th-grade teacher once wrote ""invite me to your Harvard graduation!"" on a student's report card. More than 20… https://t.co/ICNxDkIvhx",Mon May 28 18:40:00 +0000 2018,0.2244,0.095,0.905,0.0
+226,CNN,Iraq War veteran Pat Ryan is running for Congress. He’s calling for an assault weapons ban: “The weapons that I car… https://t.co/PMJ8uOhwX3,Mon May 28 18:30:25 +0000 2018,-0.9524,0.0,0.483,0.517
+227,CNN,Take one of the first rides on Crossrail — London's new subway line. The $20 billion underground rail service has b… https://t.co/MwpopWO74q,Mon May 28 18:20:00 +0000 2018,0.0,0.0,1.0,0.0
+228,CNN,"Can you BBQ ribs without a backyard? We tested three grilling gadgets that promise a ""smoked flavor"" without an act… https://t.co/KpNGeif8t2",Mon May 28 18:10:00 +0000 2018,0.3182,0.113,0.887,0.0
+229,CNN,“I’m never plugging that device in again.” An Amazon Echo user describes how the Alexa voice assistant recorded and… https://t.co/TV4tTQon0U,Mon May 28 17:57:01 +0000 2018,0.1779,0.082,0.918,0.0
+230,CNN,"A pair of mysterious pop-up super PACs, one with Republican roots and another tied to Democrats, spent more than $3… https://t.co/A4tmlQ4YgI",Mon May 28 17:47:13 +0000 2018,0.5994,0.17,0.83,0.0
+231,CNN,A teacher in Georgia responded the only way she knew how after receiving a letter from President Trump filled with… https://t.co/3X5hO4XFnM,Mon May 28 17:31:41 +0000 2018,0.0,0.0,1.0,0.0
+232,CNN,Fans at this high school softball tournament weren't happy when it was announced that the National Anthem would not… https://t.co/S8VvmQopeI,Mon May 28 17:20:53 +0000 2018,-0.4585,0.0,0.864,0.136
+233,CNN,"Aerial video shows the devastation after flood waters rushed through Ellicott City, Maryland, toppling buildings an… https://t.co/qNwhMBebGh",Mon May 28 17:05:17 +0000 2018,-0.4215,0.0,0.851,0.149
+234,CNN,"More than 645,000 poppy flowers were part of a 133-foot long temporary monument wall erected at the National Mall t… https://t.co/PobBJ0xeQf",Mon May 28 16:55:05 +0000 2018,0.0,0.0,1.0,0.0
+235,CNN,"Flash floods ripped through Ellicott City, Maryland, on Sunday, toppling buildings and upending cars, as the nearby… https://t.co/2ype8F3yrx",Mon May 28 16:45:48 +0000 2018,0.0,0.0,1.0,0.0
+236,CNN,"Jason Seaman, the teacher who tackled a gunman last week at an Indiana middle school, speaks out for the first time… https://t.co/RO8CRNJIS7",Mon May 28 16:35:05 +0000 2018,0.0,0.0,1.0,0.0
+237,CNN,Oil prices are falling fast. Here's why: https://t.co/fwTozYubWY https://t.co/mPqbaqdOHd,Mon May 28 16:25:05 +0000 2018,-0.1531,0.0,0.833,0.167
+238,CNN,Misty Copeland is the first female African-American principal dancer in the American Ballet Theatre. She says partn… https://t.co/q3ptf7Z9EE,Mon May 28 16:14:00 +0000 2018,0.0,0.0,1.0,0.0
+239,CNN,A man went to a salon and learned to do his wife's hair after she suffered a stroke and was unable to style it hers… https://t.co/bxsfim8jbi,Mon May 28 15:59:57 +0000 2018,-0.4939,0.0,0.873,0.127
+240,BBC News (World),Kylie Minogue turns 50: From Neighbours to pop stardom https://t.co/OP3ssDaee3,Mon May 28 10:57:16 +0000 2018,0.0,0.0,1.0,0.0
+241,BBC News (World),Anger as Syria heads global disarmament body https://t.co/j3UtWKtUhI,Mon May 28 10:10:50 +0000 2018,-0.5719,0.0,0.654,0.346
+242,BBC News (World),Coca-Cola launches its first alcoholic drink in Japan https://t.co/UhUeHexR8u,Mon May 28 10:10:49 +0000 2018,0.0,0.0,1.0,0.0
+243,BBC News (World),"Bulgarians find their tweets and Twitter accounts removed, having been mistaken for Russian bots https://t.co/AqUjqjqgoG",Mon May 28 09:08:06 +0000 2018,-0.3612,0.0,0.848,0.152
+244,BBC News (World),"RT @BBCBreaking: After his dramatic rescue of a young boy from a Paris balcony, Malian migrant Mamoudou Gassama is made a French citizen ht…",Mon May 28 08:49:40 +0000 2018,0.5106,0.142,0.858,0.0
+245,BBC News (World),Bulgarians tweeting in Cyrillic confused for Russian bots https://t.co/3MQkEb24IU,Mon May 28 08:46:59 +0000 2018,-0.3182,0.0,0.777,0.223
+246,BBC News (World),Alberto: Tropical storm sees thousands from Florida coast https://t.co/8d5EFsHU1V,Mon May 28 08:01:09 +0000 2018,0.0,0.0,1.0,0.0
+247,BBC News (World),"Malian migrant ""spiderman"" wows France with Paris child rescue https://t.co/1ebEPS4raH",Mon May 28 07:59:06 +0000 2018,0.743,0.441,0.559,0.0
+248,BBC News (World),LeBron makes eighth NBA finals in a row https://t.co/jnXzovo2Te,Mon May 28 07:47:26 +0000 2018,0.0,0.0,1.0,0.0
+249,BBC News (World),Figures reveal art auction gender imbalance https://t.co/D9gwM9EEuP,Mon May 28 07:47:26 +0000 2018,0.0,0.0,1.0,0.0
+250,BBC News (World),The gay mayor shaking up politics in Catholic Poland https://t.co/tahI6JCwD2,Mon May 28 07:10:38 +0000 2018,-0.1779,0.0,0.841,0.159
+251,BBC News (World),"RT @davidshukmanbbc: If dolphins are in captivity, how happy are they? @Vic_Gill on new research #Dolphins  https://t.co/0qPep1kSfC",Mon May 28 06:59:19 +0000 2018,0.5719,0.188,0.812,0.0
+252,BBC News (World),Savita parents hail Ireland abortion vote https://t.co/lLOS8NUJ5E,Mon May 28 05:57:37 +0000 2018,0.0772,0.178,0.822,0.0
+253,BBC News (World),Mo Salah 'confident' of making World Cup https://t.co/VcT0qkZWML,Mon May 28 05:44:00 +0000 2018,0.0,0.0,1.0,0.0
+254,BBC News (World),BTS become first K-pop band to top US album charts https://t.co/5v2JRAv1Ih,Mon May 28 05:25:41 +0000 2018,0.2023,0.153,0.847,0.0
+255,BBC News (World),"Trump-Kim summit: President Moon could attend, says South Korea https://t.co/iWmRxXHKZn",Mon May 28 05:02:36 +0000 2018,0.0,0.0,1.0,0.0
+256,BBC News (World),Spain's Podemos leader survives confidence vote over house purchase https://t.co/WsBwujlj3E,Mon May 28 04:39:29 +0000 2018,0.5106,0.268,0.732,0.0
+257,BBC News (World),Italy crisis: Call to impeach president after candidate vetoed https://t.co/oAjVpstebo,Mon May 28 03:37:00 +0000 2018,-0.6249,0.0,0.687,0.313
+258,BBC News (World),Brazil fuel protests: Temer cuts diesel price in bid to end strike https://t.co/grm9vOOABD,Mon May 28 03:25:07 +0000 2018,-0.5574,0.0,0.641,0.359
+259,BBC News (World),Maryland flooding: Water rages through Ellicott City streets https://t.co/uCDsMXIP4u,Mon May 28 02:17:15 +0000 2018,-0.4767,0.0,0.721,0.279
+260,CBS News,High School valedictorian barred from giving speech uses megaphone outside of school instead https://t.co/vdDcyr3ZQt https://t.co/MO0keWllT6,Mon May 28 19:00:43 +0000 2018,0.34,0.146,0.854,0.0
+261,CBS News,"""FEMA's main role will be if the governor declares it a federal emergency -- which we expect he will -- the congres… https://t.co/P5fngdbqAL",Mon May 28 18:55:14 +0000 2018,-0.3818,0.0,0.89,0.11
+262,CBS News,"""It was a pretty chaotic scene when we arrived on scene. We had multiple people trapped in vehicles and in building… https://t.co/OmJQmNp06T",Mon May 28 18:51:27 +0000 2018,-0.5267,0.115,0.647,0.237
+263,CBS News,"""I know we're still looking for a missing but it almost miraculous that when you had a flood of this magnitude that… https://t.co/K87k98dkOi",Mon May 28 18:44:08 +0000 2018,-0.1531,0.0,0.926,0.074
+264,CBS News,"""As everyone else is trying to get out of harm's way, they rushed into harm's way, and were very effective in minim… https://t.co/tBsW0wTtXi",Mon May 28 18:41:15 +0000 2018,0.5256,0.134,0.866,0.0
+265,CBS News,52 people sickened by fake cannabidiol -- also know as CBD oil -- in Utah https://t.co/TYJ1q2YZOT https://t.co/vGZIsL5TQv,Mon May 28 18:40:31 +0000 2018,-0.765,0.0,0.694,0.306
+266,CBS News,"""Since [the last major flood in] 2016, in 22 months, we have done a lot of effort to get moving. It's just, you can… https://t.co/Yc7UzC4hAn",Mon May 28 18:39:05 +0000 2018,0.0,0.0,1.0,0.0
+267,CBS News,"WATCH: Officials give updates on Maryland flooding, say they have conducted around 300 rescues and are still trying… https://t.co/AATOEsYPgA",Mon May 28 18:34:10 +0000 2018,0.3182,0.113,0.887,0.0
+268,CBS News,Mariah Carey reportedly sells engagement ring from billionaire ex-fiancé James Packer https://t.co/reKRd1OuV9 https://t.co/Hou8lQ4miG,Mon May 28 18:20:40 +0000 2018,0.4588,0.2,0.8,0.0
+269,CBS News,"Besides lava and ash, Hawaii volcano is pumping out hazardous ""vog"" https://t.co/11ncl2dJL5 https://t.co/t2zUo7ileT",Mon May 28 18:00:57 +0000 2018,0.0,0.0,1.0,0.0
+270,CBS News,"Star-studded concerts, motorcycle caravans and flags at national cemeteries: This is how groups across the country… https://t.co/gD8xBHQiZJ",Mon May 28 17:41:53 +0000 2018,0.0,0.0,1.0,0.0
+271,CBS News,A Texas police officer who initially told police he shot at a home burglar is now accused of fatally shooting his b… https://t.co/L9hwA0keNj,Mon May 28 17:20:44 +0000 2018,-0.7506,0.0,0.748,0.252
+272,CBS News,"Last year, a little boy dressed as a Marine boldly walked up to President Trump at Arlington National Cemetery and… https://t.co/TJxZQ7bUMW",Mon May 28 17:01:31 +0000 2018,0.3612,0.122,0.878,0.0
+273,CBS News,Arlington women's memorial highlights the struggles and sacrifices of female veterans https://t.co/VBWUAtcARp https://t.co/2Qol7B7fdg,Mon May 28 16:40:45 +0000 2018,-0.3612,0.0,0.828,0.172
+274,CBS News,"WATCH: Lava shoots into the sky as fissures from Kilauea Volcano continue to erupt, sending the molten rock flying.… https://t.co/NLxvysvOE5",Mon May 28 16:21:21 +0000 2018,0.0,0.0,1.0,0.0
+275,CBS News,"“On this soil, on these grounds, beneath those fields lies the true source of American greatness. Of American glory… https://t.co/wUZ7drb3tl",Mon May 28 16:13:41 +0000 2018,0.0,0.119,0.763,0.119
+276,CBS News,"“He led me to his dad's grave and we paid our respects together. It was a moment I will always remember,” Trump say… https://t.co/q6sj64tjLY",Mon May 28 16:10:08 +0000 2018,-0.0772,0.092,0.803,0.104
+277,CBS News,"“Also joining us today is a very special friend, 7-year-old Christian Jacobs… Last year, after the wreath laying ce… https://t.co/XHPB0LfXLk",Mon May 28 16:08:21 +0000 2018,0.7559,0.276,0.724,0.0
+278,CBS News,"Pres. Trump honors fallen soldier Captain Mark Stubenhofer, who died while serving in Iraq https://t.co/z2FP53md3A https://t.co/IKtbmDE1Sn",Mon May 28 16:07:21 +0000 2018,-0.4215,0.147,0.58,0.272
+279,CBS News,"""He's looking down on you and he's so proud and happy,"" Pres. Trump says to the family of Marine Lieutenant Colonel… https://t.co/ys74uPqvfK",Mon May 28 16:01:22 +0000 2018,0.6113,0.16,0.84,0.0
+280,The New York Times,RT @nytimesworld: Ireland's abortion vote has given new momentum to those who want to lift Northern Ireland's near ban on the procedure. Bu…,Mon May 28 19:58:03 +0000 2018,-0.5106,0.05,0.811,0.139
+281,The New York Times,"China awarded Ivanka Trump 7 new trademarks across a broad collection of businesses. Around the same time, Presiden… https://t.co/2OsdHXjgoM",Mon May 28 19:43:03 +0000 2018,0.4019,0.144,0.856,0.0
+282,The New York Times,"Bashar al-Assad's government has been accused of using chemical weapons against its own people. On Monday, it took… https://t.co/xYZvdsiYGH",Mon May 28 19:27:07 +0000 2018,-0.6249,0.0,0.769,0.231
+283,The New York Times,"The FBI's official guidance for protecting your internet router: Turn it off, then turn it back on again https://t.co/4bc8iEcl2t",Mon May 28 19:10:02 +0000 2018,0.0,0.0,1.0,0.0
+284,The New York Times,"RT @KirkSemple: A gay-rights lawyer becomes Brooklyn's composting guru, changes people’s lives, makes the world a better place then commits…",Mon May 28 18:54:04 +0000 2018,0.4404,0.146,0.854,0.0
+285,The New York Times,"""Instead of continually complaining about how much is being spent on health care with little to show for it, maybe… https://t.co/pehvdP6cAo",Mon May 28 18:38:01 +0000 2018,0.34,0.133,0.792,0.075
+286,The New York Times,"Uber’s abrupt exit from Southeast Asia has left regulators, drivers, riders and employees feeling bruised and disre… https://t.co/lXITEJxip7",Mon May 28 18:21:06 +0000 2018,0.128,0.081,0.919,0.0
+287,The New York Times,"""Sometimes even just thinking about an old memory of you makes me cry. I miss you so much. We all do."" — Veronica C… https://t.co/WlxsFTua0O",Mon May 28 18:06:42 +0000 2018,-0.5719,0.0,0.817,0.183
+288,The New York Times,"""I only hope to make you proud &amp; continue to achieve the dreams you had for me."" — Haley Hartwick, 22.
+
+What Memori… https://t.co/DuvcWmcPMX",Mon May 28 17:54:42 +0000 2018,0.8271,0.303,0.697,0.0
+289,The New York Times,"""I wish you could see me play soccer. Mom gets to watch me. She says you have the best seat in the house from Heave… https://t.co/DkC6ETOrFk",Mon May 28 17:45:04 +0000 2018,0.8519,0.288,0.712,0.0
+290,The New York Times,"Big banks pledged to stop lending so much to coal companies. Two years later, their lending has increased. https://t.co/3SrBHVmoxG",Mon May 28 17:30:47 +0000 2018,-0.0258,0.099,0.798,0.103
+291,The New York Times,Pope Francis has shifted his focus on Catholicism's future to the global South from which he came https://t.co/55gbyNzfEn,Mon May 28 17:10:05 +0000 2018,0.0,0.0,1.0,0.0
+292,The New York Times,What to cook this week https://t.co/BhElXUXYEY,Mon May 28 16:55:48 +0000 2018,0.0,0.0,1.0,0.0
+293,The New York Times,"NYT restaurant critic @pete_wells ranked his 5 favorite fruits for crisps, crumbles, slumps or just plain eating https://t.co/VfDupRWznN",Mon May 28 16:38:04 +0000 2018,0.2263,0.149,0.746,0.104
+294,The New York Times,"Both a culmination and a beginning, the release of Clairo’s debut EP marks a bizarre period of flux for the singer,… https://t.co/9gw7QMVj8x",Mon May 28 16:23:25 +0000 2018,-0.3182,0.0,0.887,0.113
+295,The New York Times,A 22-year-old migrant from Mali living in France scaled 4 stories of a building to save a child hanging from a balc… https://t.co/Hpd6A57dH0,Mon May 28 16:07:01 +0000 2018,0.4939,0.158,0.842,0.0
+296,The New York Times,"The NYT review of ""Solo: A Star Wars Story"" https://t.co/K8zO2d1KGn",Mon May 28 15:52:06 +0000 2018,-0.5574,0.0,0.69,0.31
+297,The New York Times,The culture of silence and deference to religious authority that long dominated Ireland is gone https://t.co/jB7Pv4tUR0,Mon May 28 15:37:04 +0000 2018,0.0772,0.08,0.92,0.0
+298,The New York Times,Why you should stop being so hard on yourself https://t.co/Y7tpyWth49,Mon May 28 15:22:04 +0000 2018,-0.4391,0.0,0.673,0.327
+299,The New York Times,"After 8 years of budget cutting, Britain is looking less like the rest of Europe and more like the U.S., with a shr… https://t.co/YxQ5dgyIuf",Mon May 28 15:07:03 +0000 2018,0.443,0.177,0.763,0.06
+300,Fox News,Chelsea Clinton: Trump 'Degrading What It Means to Be an American'  https://t.co/4v0IFxT5bj,Mon May 28 19:23:24 +0000 2018,-0.5859,0.0,0.743,0.257
+301,Fox News,"RT @FoxNewsResearch: The ""National Moment of Remembrance Act,"" signed by President Clinton in December 2000, designates 3:00 p.m. local tim…",Mon May 28 19:17:19 +0000 2018,0.0,0.0,1.0,0.0
+302,Fox News,".@GordonGChang: ""If [North Korea doesn't] have any money, they can't launch missiles, they can't detonate nukes and… https://t.co/z8tdenF8lv",Mon May 28 19:16:03 +0000 2018,0.0,0.0,1.0,0.0
+303,Fox News,".@GordonGChang on North Korea summit: ""There is no deal right now that both sides would accept."" @ShepNewsTeam… https://t.co/XbyxYVBfv7",Mon May 28 19:12:02 +0000 2018,-0.296,0.0,0.885,0.115
+304,Fox News,A rose and an American flag rest on top of a veterans gravestone to honor fallen soldiers at the Los Angeles Nation… https://t.co/FK9UlZgzRf,Mon May 28 19:06:16 +0000 2018,0.2023,0.191,0.649,0.16
+305,Fox News,"Kara Lydy: ""[#MemorialDay is] more than cooking out and having fun. You know, just take a moment to realize the sac… https://t.co/X7hZF3rlI1",Mon May 28 19:02:59 +0000 2018,0.5106,0.142,0.858,0.0
+306,Fox News,"The @EmpireStateBldg glows red, white and blue for #MemorialDay2018. https://t.co/3HEeT0zNLq",Mon May 28 18:56:38 +0000 2018,0.0,0.0,1.0,0.0
+307,Fox News,.@FLOTUS tweeted a #MemorialDay message Monday. https://t.co/fDhaifwwNc,Mon May 28 18:47:46 +0000 2018,0.0,0.0,1.0,0.0
+308,Fox News,"Texas cities lead list of those with largest population gains, census report says https://t.co/yr8V2gwt1p",Mon May 28 18:42:11 +0000 2018,0.34,0.156,0.844,0.0
+309,Fox News,"Gary Gerstenfield: ""I think #DonaldTrump is biting at the bit to get in front of Mueller and to say what he wants t… https://t.co/u4dnPISLcb",Mon May 28 18:29:57 +0000 2018,0.0,0.0,1.0,0.0
+310,Fox News,Veterans hired to make American-made products (via @FoxBusiness) https://t.co/q1pCc9DQm0,Mon May 28 18:23:02 +0000 2018,0.0,0.0,1.0,0.0
+311,Fox News,Real-life 'Spiderman' who saved child dangling from balcony to become French citizen https://t.co/3SrLKaqFDW,Mon May 28 18:12:00 +0000 2018,0.4215,0.189,0.811,0.0
+312,Fox News,".@dagenmcdowell: ""Congress isn't doing anything on the Republican side. President Trump has every right to be angry… https://t.co/cLqv0lipwX",Mon May 28 18:02:19 +0000 2018,0.0,0.0,1.0,0.0
+313,Fox News,".@Johnny_Joey: ""Every illegal immigrant in this country today, that's law-abiding, should be championing the wall,… https://t.co/Z6Ir6yh2yn",Mon May 28 17:50:23 +0000 2018,-0.2023,0.137,0.686,0.176
+314,Fox News,"EU proposes to ban plastic straws, stirs, and cotton buds https://t.co/Y2uhxdN2zA",Mon May 28 17:45:00 +0000 2018,-0.5574,0.0,0.735,0.265
+315,Fox News,Florida woman frantically warns other motorist her SUV is on fire https://t.co/v73BHaRSgZ,Mon May 28 17:38:00 +0000 2018,-0.6369,0.0,0.592,0.408
+316,Fox News,Poland seeks permanent US troop presence to deter Russia https://t.co/HyHcJ3AlWR,Mon May 28 17:30:49 +0000 2018,0.0,0.0,1.0,0.0
+317,Fox News,"On #MemorialDay, @POTUS made remarks at @ArlingtonNatl and placed a wreath at the Tomb of the Unknown Soldier.… https://t.co/lyK8DTAgSk",Mon May 28 17:14:17 +0000 2018,0.0,0.0,1.0,0.0
+318,Fox News,WATCH: Annual #MemorialDay observance at the Vietnam Veterans Memorial to remember and honor those who served in th… https://t.co/sJ9waVo8MO,Mon May 28 17:03:42 +0000 2018,0.4939,0.151,0.849,0.0
+319,Fox News,Teacher arrested after texting threat of mass shooting at Las Vegas concert https://t.co/vtodGw92Sx,Mon May 28 16:55:00 +0000 2018,-0.7579,0.0,0.629,0.371
+320,CNN,"President Trump is speaking at a Memorial Day ceremony at Arlington National Cemetery https://t.co/4slygguQA9
+
+Watc… https://t.co/HD9k4bXvME",Mon May 28 15:48:06 +0000 2018,0.0,0.0,1.0,0.0
+321,CNN,This is what it's like to surf near the Korean Demilitarized Zone https://t.co/8yu12Jk0Uv https://t.co/ImyQitjVVz,Mon May 28 15:39:00 +0000 2018,0.3612,0.161,0.839,0.0
+322,CNN,President Trump lays a wreath at the Tomb of the Unknown Soldier in Arlington National Cemetery… https://t.co/N3DOTGK3rI,Mon May 28 15:28:19 +0000 2018,0.0,0.0,1.0,0.0
+323,CNN,President Trump is participating in a wreath-laying ceremony at Arlington National Cemetery https://t.co/CqjSmOZ8qi… https://t.co/QJ1bTR4lYo,Mon May 28 15:18:04 +0000 2018,0.0,0.0,1.0,0.0
+324,CNN,Why your dental work might not always be covered by your health insurance https://t.co/kCuwFgw6x9,Mon May 28 15:08:50 +0000 2018,0.0,0.0,1.0,0.0
+325,CNN,Millennials born in the 1980s may never recover from the Great Recession https://t.co/KhZETDFmIW https://t.co/unLKr3GZha,Mon May 28 14:55:13 +0000 2018,0.3182,0.217,0.635,0.148
+326,CNN,Take one of the first rides on Crossrail — London's new subway line. The $20 billion underground rail service has b… https://t.co/ABJ6uzGyYI,Mon May 28 14:41:03 +0000 2018,0.0,0.0,1.0,0.0
+327,CNN,"A drunk man attacked 'Ivan the Terrible,' one of Russia's most famous paintings with a pole, badly damaging the art… https://t.co/XjYAMyi2nK",Mon May 28 14:20:06 +0000 2018,-0.8957,0.0,0.56,0.44
+328,CNN,"A pair of mysterious pop-up super PACs, one with Republican roots and another tied to Democrats, spent more than $3… https://t.co/8umKiiOuAV",Mon May 28 14:09:22 +0000 2018,0.5994,0.17,0.83,0.0
+329,CNN,"Can you BBQ ribs without a backyard? We tested three grilling gadgets that promise a ""smoked flavor"" without an act… https://t.co/hskX44xmgM",Mon May 28 13:55:27 +0000 2018,0.3182,0.113,0.887,0.0
+330,CNN,The historic result in Ireland's referendum on abortion has piled pressure on UK Prime Minister Theresa May to refo… https://t.co/5qGWVrnHma,Mon May 28 13:45:07 +0000 2018,-0.296,0.0,0.896,0.104
+331,CNN,Misty Copeland is the first female African-American principal dancer in the American Ballet Theatre. She says partn… https://t.co/K85zqwMe1E,Mon May 28 13:34:00 +0000 2018,0.0,0.0,1.0,0.0
+332,CNN,South Africa names first black rugby captain in 127-year Test history https://t.co/mNfB9ubS3k https://t.co/EJsHBvuD0h,Mon May 28 13:23:13 +0000 2018,0.0,0.0,1.0,0.0
+333,CNN,Iraq War veteran Pat Ryan is running for Congress. He’s calling for an assault weapons ban: “The weapons that I car… https://t.co/xT5efOmGPN,Mon May 28 13:10:23 +0000 2018,-0.9524,0.0,0.483,0.517
+334,CNN,"More than 645,000 poppy flowers were part of a 133-foot long temporary monument wall erected at the National Mall t… https://t.co/mTDyF84EFJ",Mon May 28 13:00:07 +0000 2018,0.0,0.0,1.0,0.0
+335,CNN,"This 6th-grade teacher once wrote ""invite me to your Harvard graduation!"" on a student's report card. More than 20… https://t.co/iasIY9y5gh",Mon May 28 12:50:00 +0000 2018,0.2244,0.095,0.905,0.0
+336,CNN,"A wet and sloppy Memorial Day is in store for millions of people in Alabama, Florida and Georgia as Subtropical Sto… https://t.co/jThf9cuCg7",Mon May 28 12:39:20 +0000 2018,0.0,0.0,1.0,0.0
+337,CNN,"During a routine traffic stop, Nebraska State Patrol found nearly 120 pounds of the drug fentanyl — enough to kill… https://t.co/kQMCMqP55T",Mon May 28 12:26:21 +0000 2018,-0.296,0.0,0.891,0.109
+338,CNN,A transgender woman was killed and three others seriously injured when they were attacked by a mob of angry locals… https://t.co/248RhAt7BM,Mon May 28 12:02:01 +0000 2018,-0.9349,0.0,0.479,0.521
+339,CNN,"Flash floods ripped through Ellicott City, Maryland, on Sunday, toppling buildings and upending cars, as the nearby… https://t.co/olS4tkLSQO",Mon May 28 11:48:40 +0000 2018,0.0,0.0,1.0,0.0
+340,BBC News (World),How the US and Rwanda have fallen out over second-hand clothes https://t.co/o5QFhszlIx,Mon May 28 01:01:27 +0000 2018,-0.3612,0.0,0.815,0.185
+341,BBC News (World),A war of nerves between Pakistan's military and Sharif https://t.co/EvWAiqIq7K,Mon May 28 00:56:42 +0000 2018,-0.6486,0.0,0.569,0.431
+342,BBC News (World),Mamoudou Gassama: Mali 'spiderman' stuns France with Paris child rescue https://t.co/ec1Qftrgk4,Mon May 28 00:08:16 +0000 2018,0.5267,0.328,0.672,0.0
+343,BBC News (World),Monica Lewinsky and Stormy Daniels: Political scandals across two eras https://t.co/3tqhUPHYTG,Sun May 27 23:42:45 +0000 2018,-0.4939,0.0,0.758,0.242
+344,BBC News (World),MS-13: Inside the secret world of Central America's brutal gang https://t.co/mHg82pjdqb,Sun May 27 23:29:00 +0000 2018,-0.6249,0.0,0.709,0.291
+345,BBC News (World),World Cup 2018: Being black in Russia https://t.co/tQABIyQcAa,Sun May 27 23:08:32 +0000 2018,0.0,0.0,1.0,0.0
+346,BBC News (World),Italy's Conte gives up bid for government https://t.co/JOUufdHHB4,Sun May 27 18:17:05 +0000 2018,0.0,0.0,1.0,0.0
+347,BBC News (World),US and North Korea preparing Trump-Kim summit https://t.co/4WE7Jvx9Y0,Sun May 27 18:07:45 +0000 2018,0.0,0.0,1.0,0.0
+348,BBC News (World),RT @BBCSteveR: I remember a year ago Russian newspapers were calling Macron a “psychopath” with “bulging fish eyes”. Tonight Russian state…,Sun May 27 17:06:47 +0000 2018,0.0,0.0,1.0,0.0
+349,BBC News (World),Thousands of visitors were evacuated after a huge fire broke out at Germany's largest theme park… https://t.co/NEtUOyg4wB,Sun May 27 16:16:14 +0000 2018,-0.4404,0.112,0.634,0.254
+350,BBC News (World),Berlin far-right supporters outnumbered by counter-protest https://t.co/miHCy4lCZq,Sun May 27 15:55:08 +0000 2018,0.4404,0.326,0.674,0.0
+351,BBC News (World),Aerial pictures show how lava from Hawaii's Kilauea volcano has now destroyed dozens of homes 🌋… https://t.co/EGOP1SF2w5,Sun May 27 15:27:46 +0000 2018,-0.4939,0.0,0.833,0.167
+352,BBC News (World),Huge fire at Germany's largest theme park https://t.co/RZawewFhU6,Sun May 27 14:14:42 +0000 2018,-0.0258,0.215,0.561,0.224
+353,BBC News (World),Colombia votes in first presidential poll since Farc deal https://t.co/3Fy5PMJB6k,Sun May 27 13:39:43 +0000 2018,0.0,0.0,1.0,0.0
+354,BBC News (World),Bangladesh anti-drug operation leads to dozens of deaths https://t.co/cNNF58YwjP,Sun May 27 13:06:23 +0000 2018,0.0,0.0,1.0,0.0
+355,BBC News (World),"RT @BBCNews: ⚡ Stunning lightning flashes across the night sky as #thunderstorms sweep across southern Britain ⚡
+
+https://t.co/ipht8zLX37 h…",Sun May 27 11:33:52 +0000 2018,0.3818,0.14,0.86,0.0
+356,BBC News (World),Syria war: Russians killed in militant raid in Deir al-Zour https://t.co/PUL5im6Zqb,Sun May 27 10:48:16 +0000 2018,-0.8555,0.0,0.517,0.483
+357,BBC News (World),"RT @BBCNews: ""For all women in Ireland it is just momentous""
+
+How people on the streets of Ireland reacted to an overwhelming vote in favou…",Sun May 27 08:20:37 +0000 2018,0.0,0.0,1.0,0.0
+358,BBC News (World),Irish abortion referendum: How it all unfolded https://t.co/xpeQ2I09pP,Sun May 27 07:49:07 +0000 2018,0.0,0.0,1.0,0.0
+359,BBC News (World),Nicaragua unrest: Thousands join renewed anti-government rallies https://t.co/1pPbZXE8Wy,Sun May 27 04:44:29 +0000 2018,0.296,0.239,0.761,0.0
+360,CBS News,"Giuliani said that if Mueller's investigators seek a court order to compel the president to testify, President Trum… https://t.co/StVWLEg6s6",Mon May 28 16:00:51 +0000 2018,0.0,0.0,1.0,0.0
+361,CBS News,"“To every parent who weeps for a child, to every child who mourns for a parent and to every husband or wife whose h… https://t.co/G2PaXb2Mir",Mon May 28 15:58:59 +0000 2018,-0.7003,0.0,0.784,0.216
+362,CBS News,"President Trump honors WWII veteran Sen. Bob Dole and Navy veteran Ray Chavez, who is 106 years old and the oldest… https://t.co/1tcnr3YZdC",Mon May 28 15:56:31 +0000 2018,0.5106,0.136,0.864,0.0
+363,CBS News,HAPPENING NOW: President Trump gives speech honoring America's fallen heroes during a Memorial Day ceremony in Arli… https://t.co/UPBG7bQH26,Mon May 28 15:51:21 +0000 2018,0.6249,0.286,0.606,0.108
+364,CBS News,HAPPENING NOW: Secretary of Defense Gen. James Mattis gives remarks at the Memorial Day Ceremony in Arlington Natio… https://t.co/HhQo2PHhjN,Mon May 28 15:47:35 +0000 2018,0.128,0.077,0.923,0.0
+365,CBS News,SOON: President Trump delivers Memorial Day speech https://t.co/z2FP53md3A https://t.co/e9jG82FazO,Mon May 28 15:42:15 +0000 2018,0.0,0.0,1.0,0.0
+366,CBS News,Florida teacher explains why he drowned raccoons in front of students https://t.co/61MlIhYk2y https://t.co/cKtRwfNjX5,Mon May 28 15:40:35 +0000 2018,-0.5994,0.0,0.755,0.245
+367,CBS News,"Walking in heels can be a difficult feat in and of itself. But these three women just did it on a tightrope, more t… https://t.co/4XyZQS4FjW",Mon May 28 15:23:01 +0000 2018,-0.3612,0.0,0.898,0.102
+368,CBS News,"President Trump is at Arlington National Cemetery to lay a wreath at the Tom of the Unknown Soldier, and later deli… https://t.co/JZpNDHAV0s",Mon May 28 15:21:52 +0000 2018,0.0,0.0,1.0,0.0
+369,CBS News,Police launch probe after video shows officer punching woman on N.J. beach https://t.co/XKWNQ9AQdw https://t.co/HcecVVt0pN,Mon May 28 15:20:58 +0000 2018,0.0,0.0,1.0,0.0
+370,CBS News,WATCH: President Trump honors fallen soldiers on Memorial Day at Arlington National Cemetery https://t.co/z2FP53md3A https://t.co/GbyFRYMfVY,Mon May 28 15:19:43 +0000 2018,0.2023,0.176,0.691,0.133
+371,CBS News,SOON: President Trump participates in Memorial Day ceremony at Arlington National Cemetery -- follow here for live… https://t.co/5R9kBTCUiS,Mon May 28 15:12:17 +0000 2018,0.0,0.0,1.0,0.0
+372,CBS News,"Valedictorian barred from giving high school graduation speech, delivers it outside through megaphone instead… https://t.co/3pwcsMg5Oz",Mon May 28 14:40:45 +0000 2018,0.34,0.146,0.854,0.0
+373,CBS News,U.S. team in N. Korea raises expectations of a Trump-Kim summit https://t.co/Y4V3c1hBGO https://t.co/eyqmS9SwZd,Mon May 28 14:20:39 +0000 2018,0.0,0.0,1.0,0.0
+374,CBS News,"WATCH: Raging floodwaters sweep away cars in this historic Maryland town, which had been recovering from a similar… https://t.co/TJ7bI3BWZN",Mon May 28 14:01:33 +0000 2018,-0.5267,0.0,0.833,0.167
+375,CBS News,Want lunch with Warren Buffett? Auction opens for bidding https://t.co/q6yenDtf11 https://t.co/e1pi1rmXcA,Mon May 28 13:40:54 +0000 2018,0.0772,0.115,0.885,0.0
+376,CBS News,"It's not every day you see this: a dog on a roof, unable to get down. When a firefighter showed up to save the dog,… https://t.co/q9w1Fa9hoB",Mon May 28 13:21:31 +0000 2018,0.4939,0.127,0.873,0.0
+377,CBS News,WATCH: Hero teacher speaks for the first time since tackling student gunman at Indiana middle school… https://t.co/6Cr5avJh7W,Mon May 28 13:11:32 +0000 2018,0.5574,0.184,0.816,0.0
+378,CBS News,"San Francisco may ban flavored vaping liquids, menthols https://t.co/a13awy8Hku https://t.co/7YaJrgW527",Mon May 28 13:00:35 +0000 2018,-0.5574,0.0,0.714,0.286
+379,CBS News,RT @CBSThisMorning: We have sad news to share about a former CBS News colleague. Longtime radio correspondent Bob Fuss has died from a rare…,Mon May 28 12:48:29 +0000 2018,-0.6705,0.079,0.681,0.24
+380,The New York Times,"RT @poniewozik: I reviewed the nostalgia-laden new Arrested Development, which got me thinking--again--about the TV revival glut: https://t…",Mon May 28 14:52:04 +0000 2018,-0.4767,0.0,0.838,0.162
+381,The New York Times,RT @adamliptak: Judges appointed by Republican presidents give longer sentences to black defendants and shorter ones to women than judges a…,Mon May 28 14:42:04 +0000 2018,0.0516,0.057,0.943,0.0
+382,The New York Times,The U.S. Army wants to preserve space in Arlington National Cemetery by tightening rules for who may be buried there https://t.co/8N44owzAMl,Mon May 28 14:27:04 +0000 2018,0.0,0.0,1.0,0.0
+383,The New York Times,“Having a floating home used to be something only for vacationers or the uber-wealthy. Now more people are realizin… https://t.co/TOSFxCJJmK,Mon May 28 14:12:06 +0000 2018,0.0,0.0,1.0,0.0
+384,The New York Times,What Memorial Day means to military children who have lost a parent https://t.co/Bivlhm2dNt,Mon May 28 13:55:03 +0000 2018,-0.3182,0.0,0.827,0.173
+385,The New York Times,"The FBI’s official guidance for protecting your internet router: Turn it off, then turn it back on again https://t.co/gIZtVVaMgR",Mon May 28 13:40:06 +0000 2018,0.0,0.0,1.0,0.0
+386,The New York Times,"Franklin Graham, Billy Graham’s son, is preaching faith-based politics across California, a battleground state with… https://t.co/jlx3s3V4Yu",Mon May 28 13:25:04 +0000 2018,-0.4019,0.0,0.838,0.162
+387,The New York Times,"RT @nytopinion: To speak out against powerful bosses in general is a risk. But in the food world, especially in the world of fine dining, b…",Mon May 28 13:10:03 +0000 2018,0.3612,0.16,0.767,0.073
+388,The New York Times,"Who benefits the most when a company is successful: its shareholders or its employees? Behold, the Marx Ratio. https://t.co/DRG4ltv5tW",Mon May 28 12:41:42 +0000 2018,0.7506,0.286,0.714,0.0
+389,The New York Times,"On Friday, Manhattan's district attorney, Cyrus Vance, brought charges of rape and criminal sexual acts against Har… https://t.co/w20ueAdNiC",Mon May 28 12:24:05 +0000 2018,-0.8807,0.0,0.595,0.405
+390,The New York Times,"Review: ‘Arrested Development’ Chases Its Past, Slowly https://t.co/RVUfkSIS8H",Mon May 28 12:11:34 +0000 2018,0.0,0.0,1.0,0.0
+391,The New York Times,"""In our little world of down and across, we appreciated each other not in spite of our differences, but because of… https://t.co/YoH86meeMk",Mon May 28 11:51:27 +0000 2018,0.4657,0.168,0.832,0.0
+392,The New York Times,"When 17-year-old Avalon Hester heard about “Overlooked,” The New York Times series on groundbreaking women who did… https://t.co/cbmfU1TNr3",Mon May 28 11:34:04 +0000 2018,0.0,0.0,1.0,0.0
+393,The New York Times,Because knowledge is power: An in-depth guide to doing your laundry https://t.co/Ghq1OYYb4i,Mon May 28 11:17:19 +0000 2018,0.0,0.0,1.0,0.0
+394,The New York Times,"20 years ago, she crisscrossed the U.S. shooting Huckleberry Finn-meets-riot grrrl vignettes https://t.co/a9W1BLVkhf",Mon May 28 10:59:52 +0000 2018,0.0,0.0,1.0,0.0
+395,The New York Times,40 Years of Chronicling the Unnoticed https://t.co/Ic7o7rsE3i,Mon May 28 10:43:41 +0000 2018,0.0,0.0,1.0,0.0
+396,The New York Times,Are you Team Corn or Team Tomato? https://t.co/JAyZnseAdi,Mon May 28 10:43:22 +0000 2018,0.0,0.0,1.0,0.0
+397,The New York Times,"Even if the technology can bring back the northern white rhinoceros, should we do it? https://t.co/28NqPR5FPA",Mon May 28 10:26:57 +0000 2018,0.0,0.0,1.0,0.0
+398,The New York Times,"A team of U.S. officials went into North Korea, seeking detailed commitments from Kim Jong-un about his regime’s wi… https://t.co/gjjAl0U1Vp",Mon May 28 10:10:02 +0000 2018,0.128,0.077,0.923,0.0
+399,The New York Times,20 wines under $20: Because summer wine season is approaching https://t.co/0crHFRCWIa,Mon May 28 09:46:32 +0000 2018,0.0,0.0,1.0,0.0
+400,Fox News,Flag's cross-country journey raises funds for children of fallen heroes https://t.co/Pmnwnm2TIK,Mon May 28 16:49:00 +0000 2018,0.2023,0.223,0.608,0.169
+401,Fox News,Radio Host: We Can Honor Memorial Day By 'Resisting Trump's Attacks on Democracy' @foxandfriends https://t.co/rNfOPter0C,Mon May 28 16:44:00 +0000 2018,0.0772,0.168,0.681,0.152
+402,Fox News,"'God, Country &amp; Golf': Charity Raises Millions for Families of Fallen Heroes  @foxandfriends https://t.co/IXmdr1mA1K",Mon May 28 16:38:00 +0000 2018,0.5574,0.311,0.561,0.128
+403,Fox News,".@POTUS: ""[Our fallen heroes] provided the best example of courage, virtue and valor the world will ever know.""… https://t.co/5woMQPsNZq",Mon May 28 16:29:31 +0000 2018,0.8271,0.368,0.542,0.09
+404,Fox News,".@POTUS: ""Today we also remember the more than 82,000 American service men and women who remain missing from wars a… https://t.co/PTx9sDy3fW",Mon May 28 16:26:20 +0000 2018,-0.7003,0.0,0.766,0.234
+405,Fox News,'We Will Never Forget Our Heroes': @POTUS Praises Gold Star Families at @ArlingtonNatl https://t.co/PRjOE8ZMPH,Mon May 28 16:24:29 +0000 2018,0.3612,0.197,0.694,0.11
+406,Fox News,".@POTUS recognizes fallen @USMC Lt. Col. David Greene: ""For him it was never about rank or title. Like all of his f… https://t.co/ovrxj0EV9l",Mon May 28 16:17:16 +0000 2018,0.0,0.096,0.808,0.096
+407,Fox News,".@POTUS: ""Today our whole country thanks you, embraces you, and pledges to you: We will never forget our heroes.""… https://t.co/XzeljD6cxd",Mon May 28 16:05:43 +0000 2018,0.5523,0.202,0.798,0.0
+408,Fox News,".@POTUS: ""We're joined today by the families of American heroes who made the ultimate sacrifice. We cannot imagine… https://t.co/cMkHxuVDGD",Mon May 28 16:05:24 +0000 2018,0.5106,0.155,0.845,0.0
+409,Fox News,".@POTUS: ""We gather here on the sacred soil of @ArlingtonNatl to honor the lives and deeds of America's greatest he… https://t.co/RwPN26H9oj",Mon May 28 15:53:56 +0000 2018,0.8126,0.28,0.72,0.0
+410,Fox News,.@POTUS makes #MemorialDay remarks at @ArlingtonNatl after laying a wreath at the Tomb of the Unknown Soldier. https://t.co/YHSzXKi8wh,Mon May 28 15:46:51 +0000 2018,0.0,0.0,1.0,0.0
+411,Fox News,WATCH: On #MemorialDay @POTUS laid a wreath at the Tomb of the Unknown Solider in @ArlingtonNatl. https://t.co/uxfRhk0QLc,Mon May 28 15:43:16 +0000 2018,0.0,0.0,1.0,0.0
+412,Fox News,"""Their duty was to serve. Our duty is to remember. God bless our fallen heroes and their families."" @VP tweeted a… https://t.co/mNuqAAPe1g",Mon May 28 15:37:14 +0000 2018,0.6908,0.286,0.627,0.087
+413,Fox News,"""The history of Memorial Day and the Tomb of the Unknowns is really intertwined with our nation's complicated histo… https://t.co/8jp2ra7UC8",Mon May 28 15:13:01 +0000 2018,0.0,0.0,1.0,0.0
+414,Fox News,.@POTUS lays a wreath at the Tomb of the Unknown Solider in @ArlingtonNatl this #MemorialDay. https://t.co/jceJiZdeDE,Mon May 28 14:57:41 +0000 2018,0.0,0.0,1.0,0.0
+415,Fox News,"Little Caesars employee shoots, kills attacker wearing clown mask, police say https://t.co/MlXjWObd2R",Mon May 28 14:52:00 +0000 2018,-0.802,0.0,0.581,0.419
+416,Fox News,"Volunteers have planted 10,000 flags at a University of Phoenix campus in Arizona this #MemorialDay to honor ""those… https://t.co/HIdBQ2AFWM",Mon May 28 14:46:00 +0000 2018,0.4939,0.158,0.842,0.0
+417,Fox News,Indiana teacher who tackled school shooter says it was 'only acceptable' act to save students https://t.co/S3SWn8lcTI,Mon May 28 14:39:16 +0000 2018,0.6705,0.282,0.718,0.0
+418,Fox News,Mexican authorities arrest wife of feared drug kingpin  https://t.co/2zNdK871Z7,Mon May 28 14:27:54 +0000 2018,-0.6808,0.0,0.556,0.444
+419,Fox News,"RT @EricShawnTV: On this day we honor the fallen. I especially think of Marty Clabaugh and Fred Catrone, #KIA on my Dad’s B-24 on
+ April 12…",Mon May 28 14:24:07 +0000 2018,0.1779,0.111,0.801,0.087
+420,CNN,The world's largest known freshwater pearl is going on sale at a public auction in the Netherlands next week… https://t.co/zwcEo42pk1,Mon May 28 11:44:46 +0000 2018,0.0,0.0,1.0,0.0
+421,CNN,A high school football player who takes cannabis oil to prevent his seizures has been ruled ineligible to play in c… https://t.co/7F1PIti8qJ,Mon May 28 11:21:48 +0000 2018,0.3612,0.156,0.844,0.0
+422,CNN,"Subtropical Storm Alberto is disrupting plans for Memorial Day barbecues and beach outings in Alabama, Florida and… https://t.co/cMkLkvwkyq",Mon May 28 11:07:22 +0000 2018,0.0,0.0,1.0,0.0
+423,CNN,"South Korean boy band @BTS_twt has become the first K-pop group to top the US Billboard 200 chart, with the debut o… https://t.co/HSLJnBCq0v",Mon May 28 10:40:05 +0000 2018,0.2023,0.076,0.924,0.0
+424,CNN,Why your dental work might not always be covered by your health insurance https://t.co/RgloIi4Pwm,Mon May 28 10:30:18 +0000 2018,0.0,0.0,1.0,0.0
+425,CNN,Former President George H.W. Bush was taken to a hospital in Maine on Sunday after experiencing low blood pressure… https://t.co/e20fAdwIhr,Mon May 28 10:24:51 +0000 2018,-0.2732,0.0,0.896,0.104
+426,CNN,A young Malian migrant who rescued a child dangling from a balcony will be made a French citizen and has been offer… https://t.co/Q1ybQGqF1h,Mon May 28 10:04:16 +0000 2018,0.4215,0.135,0.865,0.0
+427,CNN,"In 1997, a 6th-grade teacher wrote ""Invite me to your Harvard graduation!"" on a student's report card. Twenty-one y… https://t.co/bIVRznQfgH",Mon May 28 10:00:14 +0000 2018,0.2244,0.1,0.9,0.0
+428,CNN,"""Call the cops. My boyfriend is threatening me. He has a gun. Please don't let him know.""
+
+A woman escaped from her… https://t.co/TuGQdmvhto",Mon May 28 09:45:09 +0000 2018,-0.5423,0.088,0.69,0.222
+429,CNN,A US delegation has traveled to North Korea for preparatory talks ahead of a potential meeting between President Tr… https://t.co/pkRzD9rvHK,Mon May 28 09:39:07 +0000 2018,0.0,0.0,1.0,0.0
+430,CNN,The world's largest known freshwater pearl is going on sale at a public auction in the Netherlands next week… https://t.co/3Quv6gp65o,Mon May 28 09:30:08 +0000 2018,0.0,0.0,1.0,0.0
+431,CNN,A California man has been accused of smuggling a Byzantine-era mosaic out of war-torn Syria and hiring artists to r… https://t.co/9R1T521Eu8,Mon May 28 09:22:37 +0000 2018,-0.6486,0.0,0.762,0.238
+432,CNN,"Up until about two weeks ago, the Trump-Kim summit seemed to be moving ahead as planned. But then Trump canceled th… https://t.co/tONFSJUCqh",Mon May 28 09:15:06 +0000 2018,0.0,0.0,1.0,0.0
+433,CNN,French President Emmanuel Macron is among those praising a young Malian migrant who scaled the outside of a buildin… https://t.co/CvYqfYxewa,Mon May 28 09:05:36 +0000 2018,0.5423,0.171,0.829,0.0
+434,CNN,Millennials born in the 1980s may never recover from the Great Recession https://t.co/seZK5FUIfp https://t.co/MaEPngiwRH,Mon May 28 09:00:17 +0000 2018,0.3182,0.217,0.635,0.148
+435,CNN,"President Donald Trump's lawyer, Rudy Giuliani, has defended the President's political attacks against special coun… https://t.co/CcG0LXxzKS",Mon May 28 08:56:01 +0000 2018,-0.0516,0.138,0.714,0.148
+436,CNN,This man scaled the outside of a building in Paris to rescue a young child dangling from a balcony https://t.co/zWNSJzlJbu,Mon May 28 08:34:04 +0000 2018,0.5106,0.171,0.829,0.0
+437,CNN,"When he was a kid, Richard Jenkins raised his hand in class so often bullies started calling him ""Harvard.""
+
+Now, a… https://t.co/fWZOxPmVrM",Mon May 28 08:30:11 +0000 2018,0.4939,0.138,0.862,0.0
+438,CNN,"A pilot and his assistant have been arrested in Northern California, accused of kidnapping and attempting to deport… https://t.co/wbqqUV7uuT",Mon May 28 08:21:03 +0000 2018,-0.6486,0.0,0.751,0.249
+439,CNN,"State of emergency declared in Howard County as massive storm drenches the Baltimore region, triggering flash flood… https://t.co/Ln6LamvWbt",Mon May 28 08:13:42 +0000 2018,-0.3818,0.0,0.867,0.133
+440,BBC News (World),Tomorrow's cities: Google's Toronto city built 'from the internet up' https://t.co/obbOy1df7k,Sun May 27 01:21:52 +0000 2018,0.0,0.0,1.0,0.0
+441,BBC News (World),Your pictures: Golden https://t.co/rKZXxU8AkK,Sun May 27 01:21:51 +0000 2018,0.0,0.0,1.0,0.0
+442,BBC News (World),"Formula 1: Axcil Jefferies, Africa's first black F1 driver? https://t.co/WEiVDC55Jo",Sun May 27 00:51:30 +0000 2018,0.0,0.0,1.0,0.0
+443,BBC News (World),Real Madrid fans celebrate Champions League victory https://t.co/qoLm4pBI4M,Sun May 27 00:39:48 +0000 2018,0.7964,0.542,0.458,0.0
+444,BBC News (World),North Korea's Kim 'set on' Trump summit https://t.co/K8XC7CIsFQ,Sun May 27 00:12:18 +0000 2018,0.0,0.0,1.0,0.0
+445,BBC News (World),Female sommelier on wine tasting and mansplaining https://t.co/hqKZrHQnRN,Sat May 26 23:32:49 +0000 2018,0.0,0.0,1.0,0.0
+446,BBC News (World),'I want to be the first wheelchair user in space' https://t.co/h8d4BhqrF8,Sat May 26 23:30:28 +0000 2018,0.0772,0.115,0.885,0.0
+447,BBC News (World),"Fierce blaze in Bordeaux, France, forces evacuations https://t.co/cyoCOMXKAB",Sat May 26 23:18:45 +0000 2018,0.0,0.0,1.0,0.0
+448,BBC News (World),"Alan Bean, moon-walking astronaut and artist, dies aged 86 https://t.co/mhWys7vxZ4",Sat May 26 22:42:08 +0000 2018,-0.3818,0.0,0.776,0.224
+449,BBC News (World),Irish abortion referendum: 'We made history' https://t.co/SGIiF2NaP7,Sat May 26 22:05:08 +0000 2018,0.0,0.0,1.0,0.0
+450,BBC News (World),"RT @BBCSport: 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
+
+It's heartbreak for Liverpool as Real Madrid win their 13th Champions League title.
+
+FT 3-1
+
+https://t.co/Hr5J…",Sat May 26 20:39:30 +0000 2018,0.5423,0.268,0.595,0.138
+451,BBC News (World),France wine auction: 1774 Vin Jaune fetches record price https://t.co/DwRj40yDIR,Sat May 26 19:18:20 +0000 2018,0.0,0.0,1.0,0.0
+452,BBC News (World),Irish abortion referendum: 'Today we say no more' https://t.co/ixW2sQeeJd,Sat May 26 19:01:50 +0000 2018,-0.296,0.0,0.784,0.216
+453,BBC News (World),Irish abortion result a seismic shift https://t.co/NMp2igaiI4,Sat May 26 18:04:07 +0000 2018,0.0,0.0,1.0,0.0
+454,BBC News (World),"RT @BBCBreaking: The final result in Ireland's abortion reform referendum
+
+Yes 1,429,981
+No 723,632
+
+https://t.co/urPAqRybLz https://t.co/8…",Sat May 26 17:34:24 +0000 2018,0.128,0.143,0.741,0.116
+455,BBC News (World),"RT @BBCNews: The moment it was confirmed that Ireland had voted to repeal the Eighth Amendment and reform its abortion laws 
+
+https://t.co/…",Sat May 26 17:31:33 +0000 2018,0.0,0.0,1.0,0.0
+456,BBC News (World),Irish abortion referendum: Ireland overturns abortion ban https://t.co/3vRH09lhov,Sat May 26 17:22:04 +0000 2018,-0.5574,0.0,0.66,0.34
+457,BBC News (World),RT @BBCBreaking: Official result: Republic of Ireland votes resoundingly to overturn abortion ban with voters backing reform of constitutio…,Sat May 26 17:18:47 +0000 2018,-0.5423,0.051,0.783,0.166
+458,BBC News (World),Harvey Weinstein: What next after first charges filed https://t.co/B8jWlZgYFm,Sat May 26 17:03:30 +0000 2018,-0.2732,0.0,0.792,0.208
+459,BBC News (World),Migrant crisis: Smugglers 'shot escaping migrants' in Libya https://t.co/VrLeHLtHi0,Sat May 26 16:40:08 +0000 2018,-0.743,0.088,0.438,0.474
+460,CBS News,"Shailene Woodley plays the role of Jane Chapman on HBO’s ""Big Little Lies.” Woodley takes on a new challenge in the… https://t.co/8TBoaoRfUp",Mon May 28 12:47:08 +0000 2018,0.3182,0.148,0.852,0.0
+461,CBS News,"Ivanka Trump wins 13 new trademarks from China in 3 months, raising questions about conflicts of interest at the Wh… https://t.co/ygPz4uMDJC",Mon May 28 12:40:39 +0000 2018,0.6249,0.255,0.646,0.099
+462,CBS News,Broadway often celebrates people overcoming differences and adversity. Those stories are usually told on the stage.… https://t.co/N1ITVSNbxH,Mon May 28 12:39:14 +0000 2018,0.2263,0.172,0.698,0.13
+463,CBS News,Here’s a look at some of this morning’s headlines on @CBSThisMorning https://t.co/w8Ze3mxSv5,Mon May 28 12:33:41 +0000 2018,0.0,0.0,1.0,0.0
+464,CBS News,A team of U.S. negotiators is in North Korea still trying to prepare for a possible June 12 summit with Kim Jong Un… https://t.co/PL7WRmHodC,Mon May 28 12:20:37 +0000 2018,0.0,0.0,1.0,0.0
+465,CBS News,This week marks the 150th anniversary of Memorial Day. But even those who stop to remember the fallen may be surpri… https://t.co/NY2DGzV4z6,Mon May 28 12:20:23 +0000 2018,-0.5719,0.0,0.81,0.19
+466,CBS News,"Around 3 million women have served our country in the military, including 168 who died in the wars in Iraq and Afgh… https://t.co/zHmkYv4yf6",Mon May 28 12:10:57 +0000 2018,-0.802,0.0,0.735,0.265
+467,CBS News,Danica Patrick’s historic racing career ended with a crash at the Indy 500. @danajacobson spoke with the racing leg… https://t.co/iLMZy2hdMv,Mon May 28 12:07:00 +0000 2018,-0.4019,0.0,0.87,0.13
+468,CBS News,U.S. negotiators are preparing again for a summit with North Korean leader Kim Jong Un https://t.co/50mtVLRhBu https://t.co/1Dg7WMVGiO,Mon May 28 12:05:31 +0000 2018,0.0,0.0,1.0,0.0
+469,CBS News,Millions of people along the Gulf Coast are preparing for Subtropical Storm Alberto. Flash flooding from a separate… https://t.co/0O4EHShG4T,Mon May 28 12:04:56 +0000 2018,0.0,0.0,1.0,0.0
+470,CBS News,RT @CBSThisMorning: WATCH: @CBSMiami Meteorologist @LissetteCBS4 is tracking Subtropical Storm #Alberto: https://t.co/CklhGToR9y https://t.…,Mon May 28 12:03:01 +0000 2018,0.0,0.0,1.0,0.0
+471,CBS News,RT @CBSThisMorning: An investigation is underway in New Jersey after police punched a young woman in the head while trying to arrest her ov…,Mon May 28 12:02:24 +0000 2018,-0.34,0.0,0.902,0.098
+472,CBS News,"Man missing after ""1,000-year flood"" ravages Ellicott City, Maryland, for 2nd time in two years… https://t.co/o1skHlrueH",Mon May 28 12:00:57 +0000 2018,-0.296,0.0,0.872,0.128
+473,CBS News,Here’s a look at some of this morning’s headlines on @CBSThisMorning https://t.co/mCjMmRdFcO,Mon May 28 11:52:27 +0000 2018,0.0,0.0,1.0,0.0
+474,CBS News,"Hawaii's Kilauea volcano began its current eruption about three weeks ago. Every day since then, photographers have… https://t.co/zlazs8N7M6",Mon May 28 11:45:56 +0000 2018,0.0,0.0,1.0,0.0
+475,CBS News,"Palestinian President Mahmoud Abbas was discharged from a West Bank hospital on Monday, ending a weeklong stay that… https://t.co/t3VlaykN8R",Mon May 28 11:40:48 +0000 2018,0.0,0.0,1.0,0.0
+476,CBS News,"More than 8,000 Starbucks locations will close their doors tomorrow afternoon for racial bias training. Starbucks F… https://t.co/FzRlDGmljB",Mon May 28 11:39:54 +0000 2018,-0.1027,0.0,0.924,0.076
+477,CBS News,A surprising new name is questioning whether Robert F Kennedy's assassination involved a second gunman. He was shot… https://t.co/x9xmD30aHu,Mon May 28 11:34:46 +0000 2018,-0.4939,0.103,0.637,0.26
+478,CBS News,"Here are three things you should know this morning:
+1⃣Honoring America's fallen 
+2⃣FBI router warning
+3⃣Vegas ralli… https://t.co/VkcZZXrRz6",Mon May 28 11:33:56 +0000 2018,-0.5994,0.0,0.766,0.234
+479,CBS News,Lava from Hawaii's Kilauea Volcano oozes over well at geothermal plant https://t.co/X8IM1V9yiw https://t.co/01QWHzYqwh,Mon May 28 11:20:44 +0000 2018,0.2732,0.149,0.851,0.0
+480,The New York Times,"Officers in Germany recently caught 21 families trying to travel a few days before official vacations, when tickets… https://t.co/cAsKn81osz",Mon May 28 09:28:44 +0000 2018,0.0,0.0,1.0,0.0
+481,The New York Times,Taking On Climate Change https://t.co/yRERjB0ACu,Mon May 28 09:11:24 +0000 2018,0.0,0.0,1.0,0.0
+482,The New York Times,What to do when a higher-level job doesn’t include a better title or salary https://t.co/Kd2t9Fgro1,Mon May 28 08:55:26 +0000 2018,0.4404,0.195,0.805,0.0
+483,The New York Times,Migraine is the most disabling neurological disease in the world among people under age 50. Yet many who have them… https://t.co/xM3P8eSweh,Mon May 28 08:38:36 +0000 2018,-0.5256,0.0,0.855,0.145
+484,The New York Times,"It's a staple of language classes and parental lectures: Say thank you. But as it turns out, human beings say thank… https://t.co/7Qe0WKENlh",Mon May 28 08:22:05 +0000 2018,0.3612,0.111,0.889,0.0
+485,The New York Times,Naked George — not its official name — arrived in New York on schedule https://t.co/wPtUghUueI,Mon May 28 08:05:41 +0000 2018,0.0,0.0,1.0,0.0
+486,The New York Times,"Kaliningrad's struggling soccer team can't fill the stadium it now calls home, but soon the players will have a $28… https://t.co/ortywLuCqx",Mon May 28 07:49:05 +0000 2018,-0.2263,0.0,0.909,0.091
+487,The New York Times,"""If 'outrage' meant a lynching or rape a mere 150 years ago, how did it come to express something as trivial as one… https://t.co/UVztd8eFR1",Mon May 28 07:30:32 +0000 2018,-0.7003,0.0,0.775,0.225
+488,The New York Times,RT @NYTScience: Sloppy medical records aren't just jeopardizing patient care. They're preventing scientists from finding new cancer treatme…,Mon May 28 07:14:31 +0000 2018,-0.3182,0.135,0.633,0.232
+489,The New York Times,Summer is for road trips. And road trips are for snacks. https://t.co/Tt0niHggEu,Mon May 28 06:58:29 +0000 2018,0.0,0.0,1.0,0.0
+490,The New York Times,"""Do I have an ethical obligation not to enter a system that is clearly deeply flawed, if it so happens that those f… https://t.co/FkkktUQSrB",Mon May 28 06:40:18 +0000 2018,0.7184,0.231,0.769,0.0
+491,The New York Times,A look at the continued cultural relevance of SpongeBob SquarePants https://t.co/EPrmtVJmnY,Mon May 28 06:24:13 +0000 2018,0.0,0.0,1.0,0.0
+492,The New York Times,"“If people had the same levels of student debt as about 20 years ago, they probably would be buying a lot more home… https://t.co/sRFa7IQZuh",Mon May 28 06:06:00 +0000 2018,-0.3612,0.0,0.898,0.102
+493,The New York Times,"“If people had the same levels of student debt as about 20 years ago, they probably would be buying a lot more home… https://t.co/AFUarrfKoJ",Mon May 28 05:48:27 +0000 2018,-0.3612,0.0,0.898,0.102
+494,The New York Times,These home upgrades don’t require as much effort as you’d think https://t.co/uoI3Otch99,Mon May 28 05:32:01 +0000 2018,0.0,0.0,1.0,0.0
+495,The New York Times,"Britain’s Big Squeeze: In Britain, Austerity Is Changing Everything https://t.co/9WNnhJB9U9",Mon May 28 05:14:05 +0000 2018,0.0,0.0,1.0,0.0
+496,The New York Times,"The 5 Best Summer Fruits, Ranked https://t.co/tpW0CAOVfl",Mon May 28 05:02:26 +0000 2018,0.6369,0.457,0.543,0.0
+497,The New York Times,"With Sheer Will, LeBron James Leads the Cavaliers Back to the Finals https://t.co/Cu9deNCvGH",Mon May 28 04:46:04 +0000 2018,0.0,0.0,1.0,0.0
+498,The New York Times,"The 7 greatest packaged frozen treats, ranked https://t.co/6O9uu9bmWt",Mon May 28 04:43:22 +0000 2018,0.6369,0.412,0.588,0.0
+499,The New York Times,"Because summer is the best time for French fries: The best French Fry styles, ranked https://t.co/zP1GmPSh2p",Mon May 28 04:27:18 +0000 2018,0.8555,0.375,0.625,0.0
